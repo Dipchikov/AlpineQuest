@@ -651,7 +651,10 @@ About the "Phone state and identity" Android permission: due to the backward com
 
 <string name="settings_display_bearings_title">Азимут</string>
 <string name="settings_display_bearings_degrees">Градуси</string>
+<string name="settings_display_bearings_gradians">Гради</string>
 <string name="settings_display_bearings_mils">Мили</string>
+
+
 
 <string name="settings_display_slopes_title">Формат за наклон</string>
 <string name="settings_display_slopes_percents">Проценти</string>
@@ -700,7 +703,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_canvas_multitouch_rotate_title">Ръчно завъртане на картата</string>
 <string name="settings_canvas_multitouch_rotate_desc">Позволява да контролирате ориентацията на картата с два пръста.</string>
 <string name="settings_canvas_hres_map_title">Разделителна способност на картата</string>
-<string name="settings_canvas_hres_map_desc">Показване на размера на картата върху екрана.</string>
+<string name="settings_canvas_hres_map_desc">Показва на размера на картата върху екрана.</string> 
 
 <string name="settings_landmarks_category">Маркери</string>
 <string name="settings_landmarks_display_size_title">Размер на маркера</string>
