@@ -703,7 +703,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_canvas_multitouch_rotate_title">Ръчно завъртане на картата</string>
 <string name="settings_canvas_multitouch_rotate_desc">Позволява да контролирате ориентацията на картата с два пръста.</string>
 <string name="settings_canvas_hres_map_title">Разделителна способност на картата</string>
-<string name="settings_canvas_hres_map_desc">Показва на размера на картата върху екрана.</string> 
+<string name="settings_canvas_hres_map_desc">Показва размера на картата върху екрана.</string> 
 
 <string name="settings_landmarks_category">Маркери</string>
 <string name="settings_landmarks_display_size_title">Размер на маркера</string>
