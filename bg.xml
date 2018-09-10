@@ -1,120 +1,115 @@
 <!-- AlpineQuest description -->
 
-Вашето устройство с Android се превръща в навигационно устройство с офлайн карти!
+Вашето Android устройство се превръща в навигационно устройство с офлайн карти!
 
 
-AlpineQuest е мултифункционално решение за всички видове дейности на открито и спорт, включително туризъм, бягане, лов, off-road, корабоплаване и много други.
+AlpineQuest е мултифункционално решение за всички видове спорт и дейности на открито, като туризъм, бягане, лов, off-road, корабоплаване и много други.
 
-Можете да използвате и запазвате на устройството си голям брой <b> онлайн топографски карти, които ще са налични </b>, дори ако излезете от зоната на покритие на клетъчния си оператор. AlpineQuest също поддържа <b> различни картови формати </b>, например MemoryMap (c).
+Можете да използвате и запазвате на устройството  голям брой <b>онлайн топографски карти, които ще са налични</b>, дори и когато излезете от зоната на покритие на клетъчния оператор. AlpineQuest също така поддържа <b>различни картови формати</b>, например QCT и OZFx2.
 
-Никога няма да излезете от пътя, ако използвате GPS приемника и магнитния сензор на вашето устройство (компас) - <b> Вашето местоположение ще се показва на картата в реално време </b>.
+Никога няма да се изгубите, ако използвате GPS приемника и магнитния сензор на вашето устройство (компас) - <b>Вашето местоположение ще се показва на картата в реално време</b>.
 
-Запазете и качете <b> маркери (точки) </b>, споделете ги с приятелите си. <b> Запишете маршрути </b>, получавайте и <b> подробни статистически данни </b> и <b> интерактивни графики </ b> и ще имате пълна информация за това къде и как да маршрутизирате.
+Запазване и качване на <b>маркери (точки)</b>, които може да споделите с вашите приятели. <b>Записване на маршрути</b> с подробни статистически данни, интерактивни графики и още  пълна информация за това къде и как да маршрутизирате.
 
-Ще останете напълно функционални извън зоната на покритие на клетъчния оператор (например в планините, в гората, на открито), програмата AlpineQuest ще ви помогне да стигнете до най-отдалечените природни места ....
+Ще останете напълно функционални извън зоната на покритие на клетъчния оператор (например в планината, в гората, на открито), програмата AlpineQuest ще Ви помогне да стигнете до най-отдалечените места...
 
+<b><b>Не се колебайте, опитайте пълната версия!</b></b> [for full version]
+<b><b>Не се колебайте, използвайте я сега безплатно!</b></b> [for free version]
 
-<b><b>Не се колебайте, опитайте безплатната версия!</b></b>
-<b><b>Не се колебайте, използвайте я сега безплатно!</b></b>
-
-
-PLEASE report suggestions and issues on our dedicated forum http://www.alpinequest.net/forum (no registration needed, all questions answered) and not in comments.
+Моля, споделяйте предложения,проблеми на нашия форум http://www.alpinequest.net/forum (не е необходима регистрация, отговори на всички въпроси).
 
 
-<u><b>Key features are:</b></u>
+<u><b>Основни функции:</b></u> (за пълната версия):
 
 ★★ <b>Карти</b> ★★
-• Вградени<b>онлайн карти</b> (с <b>автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
-• Вграден<b>онлайн слоеве</b> (име пътища, хълмове, контури на височини и т.н.);
-• Получете повече онлайн карти и слоеве с едно кликване на списъка с включени карти (карти на Nokia, Yahoo! Maps, локални топо карти, ...);
-• Изчисляване <b>място за съхранение</b>за онлайн карти и офлайн използване;
-• <b>Вградени офлайн карти</b> поддръжка (посетете нашия уебсайт и изтеглете безплатна програма за създаване на офлайн картите MOBAC);
-• <b>Карти <b>Карта памет</b> (само картите QuickChart .qct - .qc3 не се поддържат);
-• Многопластови<b> карти със слоевете </ b>, с контрол на прозрачността на карта;
+• Вградени <b>онлайн карти</b> (с <b>автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
+• Вградени<b>онлайн слоеве</b> ( пътища, хълмове, контури, височини и т.н.);
+• Получавате много онлайн карти и слоеве само с едно кликване върху списъка с включени карти (карти на Nokia, Yahoo! Maps, локални,топогрофски и много други карти, ...);
+• Изчислява<b>място за съхранение</b>на онлайн карти за офлайн използване;
+• <b>Вградени офлайн карти</b>за поддръжка (посетете нашия уебсайт и изтеглете безплатна програма за създаване на офлайн карти MOBAC);
+• <b>Карта памет</b> (само картите QuickChart .qct - .qc3 не се поддържат);
+• Многопластови <b>карти със слоеве</b> с възможност за контрол на прозрачността;
 • Advanced SD memory card Map Explorer and Scanner.
 
 ★★ <b>Етикети</b> ★★
 • Запазване, възстановяване, показване на неограничен брой точки и маршрути;
-• Експортиране / импортиране на файлове <b> GPX </b>, <b> файлове на Google Земя KML/KMZ</b>, <b>CSV / TSV</b>;
-• Поддръжка на точки от формат <b> OziExplorer WPT / PLT </b>, <b> Geocaching LOC </b> файлове;
+• Експортиране / импортиране на файлове <b>GPX</b>, <b>файлове на Google Земя KML/KMZ</b>, <b>CSV/TSV</b>;
+• Поддръжка на точки от формат <b>ShapeFile SHP/PRJ/DBF</b>, <b>Ozi Explorer WPT/PLT</b>, <b>Geocaching LOC</b> файлове;
 • Достъп до онлайн базата данни с потребителски точки от общността - запишете вашите точки, споделете ги и с други потребители;
-• Подробности, <b> Разширени статистически данни </b> и <b> Интерактивна графика </b>;
+• Подробности, <b>разширени статистически данни</b> и <b>интерактивна графика</b>;
 • Контролер на времето;
 • Създаване на маршрути, точки и навигационни зони (възможност за ръчно създаване на нов маршрут / запис на картата);
 • Усъвършенствана за работа със знаци.
 
-★★ <b> GPS позициониране </ b> ★★
-• Геолокация на място с помощта на GPS или мрежа
-• Ориентация на картата, <b> компас </ b>, насочване;
-• Вграден <b> GPS / барометричено следене </ b> (записване и анализ на маршрута, възможност за записване, както приложението е изключено / минимизирано, енергоспестяващ режим);
-• Показване на разстоянието между точките на потребителя;
-• Уведомления и предупреждение за близост;
+★★ <b>GPS позициониране</b> ★★
+• Геолокация на място с помощта на GPS или мобилна мрежа
+• Ориентация на картата, <b>компас</b>, насочване;
+• Вграден <b>GPS / барометричено следене</b> (записване и анализ на маршрута, както и когато приложението е изключено / минимизирано, енергоспестяващ режим);
+• Изчисление на разстоянието между точки;
+• Уведомления и предупреждения за близост;
 • Барометър (за съвместими устройства).
 
 ★★ <b>Още:</b> ★★
 • Различни мерни единици за измерване на разстояниятя;
 • Различни GPS формати за географска ширина/дължина и координатна мрежа (UTM, MGRS, USNG, OSGB, ирландска мрежа, швейцарска мрежа, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
 • Възможност за импортиране на стотици координатни формати от http://www.spatialreference.org;
-• Показване на координатната мрежа върху картата;
-• Изглед на цял екран;
+• Възможност за показване на координатната мрежа върху картата;
+• Възможност за изглед на цял екран;
 • Увеличение с няколко докосвания;
 • ...
-
-
-About the "Phone state and identity" Android permission: due to the backward compatibility of AlpineQuest with Android 1.5, this permission is automatically added by Google Play.
 
 
 
 
 <!-- OfflineMaps description -->
 
-<b>All-In-One OfflineMaps Ви предлага достъп до широка гама от карти безплатно.</b>
-<b>All-In-One OfflineMaps+ Ви предлага достъп до широка гама от карти.</b>
+<b>OfflineMaps Ви предлага достъп до широка гама от карти безплатно</b>
+<b>OfflineMaps+ Ви предлага достъп до широка гама от карти</b>
 
 --
 
-Уморихте ли да чакате зареждането на онлайн картите? Използвайте All-In-One OfflineMaps! <b> След изтеглянето картите остават в програмата и винаги са достъпни дори и без връзка с интернет </ b>.
+Уморихте ли да чакате зареждането на онлайн картите? Използвайте All-In-One OfflineMaps! <b>След изтеглянето картите остават в програмата и винаги са достъпни дори и без връзка с интернет</b>.
 
-• <b> Имате ли нужда от повече от пътна картата? </b> Всичко, от което се нуждаете, може да намерите тук;
-• <b> Често пътувате ли там, където няма интернет или лошо качество на покритието на мрежата? </b> Всичко, от което се нуждаете за навигация, ще бъде достъпно за вас;
-• <b> Често ли ходите на непознати места? </b> Никога няма да се изгубите;
-• <b> Имате ли ограничения за трафика (качване)? </b> Програмата ще сведе до минимум това.
+• <b>Имате ли нужда от повече от пътна картата?</b> Всичко, от което се нуждаете, може да намерите тук;
+• <b>Често пътувате ли там, където няма интернет или лошо качество на покритието на мрежата?</b> Всичко, от което се нуждаете за навигация, ще бъде достъпно за вас;
+• <b>Често ли ходите на непознати места?</b> Никога няма да се изгубите;
+• <b>Имате ли ограничения за трафика (качване)?</b> Програмата ще сведе до минимум това.
 
 --
 
-<b><b>This Plus version includes all features of the Standard version without ads, and supports import of professional GPS and geographic landmarks file formats (waypoints, routes, tracks, areas) like GPX, Google Earth KML/KMZ (map overlays not supported), OziExplorer WPT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>This Plus version includes all features of the Standard version without ads, and supports import of professional GPS and geographic placemarks file formats (waypoints, routes, tracks, areas) like GPX, Google Earth KML/KMZ (map overlays not supported), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
 ★★ <b>Карти</b> ★★
-Предлага се голям брой карти, класически пътни карти, топографски карти, сателитни карти и различни слоеве, които могат да се добавят към всяка карта: OpenStreetMap (пътни, топографски), USGS национална карта (топография на карти с висока разделителна способност, сателитни карти), Google Maps, Bing, Yahoo, Yandex, различни регионални топографски карти, включително и в Европа, Великобритания, Испания, Италия и т.н.
-• Всички карти могат да се отварят (добавят) под формата на слоеве, възможно е да се регулира прозрачността, цвета и наситеността на всеки слой.
+Предлага се голям брой карти, класически пътни карти, топографски, сателитни карти, както и различни слоеве, които могат да се добавят към всяка карта: OpenStreetMap (пътни, топографски), USGS национална карта (топография на карти с висока разделителна способност, сателитни карти), Google Maps, Bing, Yahoo, Yandex, различни регионални топографски карти, включително и в Европа, Великобритания, Испания, Италия и т.н.
+• Всички карти могат да се отварят (добавят) под формата на слоеве, с възможност е да се регулира прозрачността, цвета и наситеността на всеки слой.
 • Избирате и съхранявате всички части на картата на устройството бързо и лесно.
 • Запазените раздели на картата винаги са достъпни офлайн и могат лесно да бъдат изтрити, ако е необходимо.
 
 
 ★★ <b>Показване, запазване и качване на неограничен брой маркери</b> ★★
-Можете да добавите различен брой етикети, като точки, икони, маршрути, области на картата.
+Можете да добавите различен брой етикети, като точки, икони, маршрути и области на картата.
 Можете лесно да ги управлявате с врадения редактор.
 
 
 ★★ <b>GPS позициониране</b> ★★
-Текущото ви местоположение и посока се показва на картата, която може да се завърти чрез движение, за да се подобри ориентацията на терена (зависи от устройството).
-Бързо и лесно включване/изключване на GPS позициониране за икономична работа на устройството.
+Текущото Bи местоположение и посока се показват върху картата, която може да се завърта чрез движение за да подобра ориентацията.
+Бързо и лесно включване/изключване за по-икономична работа на устройството.
 
 
 И още:
 • Метрични, имперски и хибридни измервателни единици;
-• Различни GPS формати за географска ширина/дължина и координатна мрежа (UTM, MGRS, USNG, OSGB, ирландска мрежа, швейцарска мрежа, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
+• Различни GPS формати за географска ширина/дължина и координатни мрежи (UTM, MGRS, USNG, OSGB, ирландска мрежа, швейцарска мрежа, Lambert Grids, QTH Maidenhead Locator System, ...);
 • Възможност за импортиране на стотици координатни формати от http://www.spatialreference.org;
-• Показване на координатната мрежа върху картата;
+• Възможност за показване на координатната мрежа върху картата;
 • Изглед на цял екран;
 • Увеличение с няколко докосвания;
 • ...
 
 
 ★★ <b>Искате ли повече?</b> ★★
-Ако сте истински авантюрист, опитайте <b> AlpineQuest GPS Hiking </b>, цялостното решение за открито, базирано на All-In-One OfflineMaps, с добавен с мощен GPS Location Tracker и още: http://www.alpinequest.net/google-play
+Ако сте истински авантюрист, опитайте <b>AlpineQuest Off-Road Explorer</b>, цялостното решение за открито, базирано на All-In-One OfflineMaps, с добавен с мощен GPS Location Tracker и още: http://www.alpinequest.net/google-play
 
 
 
@@ -132,10 +127,11 @@ About the "Phone state and identity" Android permission: due to the backward com
 
 <!-- About OM -->
 
+<string name="om_whatsnew_no_more_ads">Без повече реклами!</string>
 <string name="om_whatsnew_howto_title">Как работи?</string>
-<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват на място, за да останат лесно достъпни дори когато са офлайн. \пИма много налични карти, които могат да се показват на слоеве.</string>
+<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват в устройството, за да останат лесно достъпни дори, и когато сте офлайн. \пИма много налични карти, които могат да се показват като слоеве.</string>
 <string name="om_whatsnew_plus_title">Искате ли да се отървете от рекламите?</string>
-<string name="om_whatsnew_plus_content">Подкрепете ни и получайте пълната версията без реклами:</string>
+<string name="om_whatsnew_plus_content">Подкрепете ни, като изберете пълната версия без реклами:</string>
 
 
 
@@ -160,7 +156,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="maps_submenu_display_scale_value">Мащаб на картата</string>
 <string name="maps_submenu_display_scale_bar">Мащабен бар на картата</string>
 <string name="maps_submenu_only_use_local_storage">Използвай само локалното хранилище</string>
-<string name="maps_submenu_show_storage_coverage">Покажи покритието на локалното хранилищее</string>
+<string name="maps_submenu_show_storage_coverage">Покажи покритието на локалното хранилище</string>
 <string name="maps_submenu_correct_china_shift">Правилни компенсации над Китай</string>
 <string name="maps_submenu_favorites_title">Предпочитани карти и комплексни карти</string>
 
@@ -176,15 +172,15 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="geolocation_submenu_dashboard">Контролен панел</string>
 <string name="geolocation_submenu_geolocation">GPS позиция</string>
 <string name="geolocation_submenu_tracker">Запис на маршрут</string>
-<string name="geolocation_submenu_barometer">Бароветър</string>
+<string name="geolocation_submenu_barometer">Барометър</string>
 <string name="geolocation_submenu_rotate">Завъртане на картата (с помощта на GPS)</string>
 <string name="geolocation_submenu_display_information">Статус на позиционирането</string>
 <string name="geolocation_submenu_tracker_information">Статус на записвания маршрут</string>
 
 <string name="orientation_submenu_title">Ориентация</string>
 <string name="orientation_submenu_compass">Компас</string>
+<string name="orientation_submenu_rotate">Завъртане на картата с помощта на компаса</string>
 <string name="orientation_submenu_compass_on_map">Покажи компас на картата</string>
-<string name="orientation_submenu_rotate">Завъртане на картата (с помощта на компаса)</string>
 <string name="orientation_submenu_status">Текуща ориентация</string>
 
 
@@ -236,6 +232,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_button_report_errors">Отчет за грешки</string>
 <string name="core_button_reset">Нулиране</string>
 <string name="core_button_save">Запази</string>
+<string name="core_button_save_as_favorite">Запази в предпочитани</string>
 <string name="core_button_search">Търси</string>
 <string name="core_button_select">Избери</string>
 <string name="core_button_share">Сподели</string>
@@ -261,6 +258,13 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_utils_errors_1p">%s грешки</string>
 <string name="core_utils_opacity_1p">%s прозрачност</string>
 <string name="core_utils_all_1p">%s всичко</string>
+<string name="core_utils_selected_1p">%s избрани</string>
+
+<string name="core_utils_size_very_small">Много малък</string>
+<string name="core_utils_size_small">Малък</string>
+<string name="core_utils_size_medium">Среден</string>
+<string name="core_utils_size_large">Голям</string>
+<string name="core_utils_size_very_large">Много голям</string>
 
 <string name="core_utils_units_distance_meter">метри</string>
 <string name="core_utils_units_angle_degree">градуси</string>
@@ -270,7 +274,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_utils_units_time_second_abbrev">сек</string>
 <string name="core_utils_units_distance_meter_abbrev">м</string>
 <string name="core_utils_units_distance_kilometer_abbrev">км</string>
-<string name="core_utils_units_speed_abbrev">км/ч</string>
+<string name="core_utils_units_speed_kmh_abbrev">км/ч</string>
 <string name="core_utils_units_area_hectare_abbrev">ха</string>
 <string name="core_utils_units_area_are_abbrev">ар</string>
 <string name="core_utils_units_pressure_hpa_abbrev">хПa</string>
@@ -279,15 +283,13 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_utils_units_weigth_lbs_abbrev">паунд</string>
 <string name="core_utils_units_energy_kcal_abbrev">ккал</string>
 
-
-
 <string name="core_toolkit_share_location_1p">Местоположението е %s.</string>
 <string name="core_toolkit_share_location_named_2p" formatted="false">Местоположението на %s е %s.</string>
 <string name="core_toolkit_share_location_received">Ново местоположение</string>
-<string name="core_toolkit_share_location_list_empty">Няма местоположение за показване.</string>
+<string name="core_toolkit_share_location_list_empty">Няма местоположение за показване</string>
 
 <string name="core_toolkit_loading">Зареждане</string>
-<string name="core_toolkit_please_wait">Моля изчакайте..</string>
+<string name="core_toolkit_please_wait">Моля изчакайте</string>
 <string name="core_toolkit_success">Успех</string>
 <string name="core_toolkit_error">Грешка</string>
 <string name="core_toolkit_error_no_network">Няма мрежа</string>
@@ -299,7 +301,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_toolkit_error_action_failed_s_1p">Исканото действие\"%s\" се провали.</string>
 <string name="core_toolkit_error_coupon_invalid_s">Този купон не е валиден или е изтекъл.</string>
 <string name="core_toolkit_error_out_of_memory_s">Паметта е изчерпана. Моля, рестартирайте приложението.</string>
-<string name="core_toolkit_error_storage_s">Неуспешно откриване или използване на подходящо място за съхранение.</string>
+<string name="core_toolkit_error_storage_s">Неуспешно откриване или използване на неподходящо място за съхранение.</string>
 <string name="core_toolkit_error_storage_configure_s">Искате ли да го конфигурирате сега?</string>
 <string name="core_toolkit_error_limited_features_s">Функционалността ще бъде ограничена.</string>
 <string name="core_toolkit_error_write_no_space_left_s">Няма повече място в това хранилище.</string>
@@ -308,10 +310,10 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_toolkit_error_intent_input_s">Не може да се обработва външно съдържание.</string>
 <string name="core_toolkit_error_service_unavailable_s">Услугата е недостъпна.</string>
 
-<string name="core_toolkit_message_item_saved_s">Елементът е запазен.</string>
+<string name="core_toolkit_message_item_saved_s">Елементът е запазен</string>
 
-<string name="core_toolkit_question_are_you_sure_s">Сигурен ли си?</string>
-<string name="core_toolkit_question_confirm_exit_s">Затваряне на приложението.</string>
+<string name="core_toolkit_question_are_you_sure_s">Сигурени ли сте?</string>
+<string name="core_toolkit_question_confirm_exit_s">Затваряне на приложението</string>
 <string name="core_toolkit_question_file_already_imported_s">Този файл вече е импортиран. Отваряне на съществуващия или импортиране отново?</string>
 <string name="core_toolkit_question_replace_existing_item_s">Този файл вече съществува, искате ли да го замените?</string>
 
@@ -322,15 +324,16 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_explorer_address_sdcard">Карта памет</string>
 <string name="core_explorer_address_storage">Памет на устройството</string>
 <string name="core_explorer_address_downloads">Моите изтеглени файлове</string>
-<string name="core_explorer_cell_empty">Това място е празно.</string>
+<string name="core_explorer_cell_empty">Това място е празно</string>
 <string name="core_explorer_scanning_1p">Сканиране\"%s\"&#8230;</string>
 <string name="core_explorer_folder_create_desc">Създава папка за сортиране на елементи</string>
+<string name="core_explorer_favorite_items">Предпочитани</string>
+<string name="core_explorer_favorite_item">Предпочитан</string>
 
-<string name="core_explorer_item_delete_q">Елемента ще бъде изтрит?</string>
-<string name="core_explorer_item_delete_success_s">Eлемета е изтрит.</string>
-<string name="core_explorer_item_move_success_s">Eлемета е преместeн.</string>
-<string name="core_explorer_item_rename_success_s">Eлемета е преименуван.</string>
-<string name="core_explorer_item_copy_success_s">Eлемета е копиран.</string>
+<string name="core_explorer_item_delete_success_s">Eлемета е изтрит</string>
+<string name="core_explorer_item_move_success_s">Eлемета е преместeн</string>
+<string name="core_explorer_item_rename_success_s">Eлемета е преименуван</string>
+<string name="core_explorer_item_copy_success_s">Eлемета е копиран</string>
 
 <string name="core_explorer_context_group_sort_title">Подреди по</string>
 <string name="core_explorer_context_group_multiselect">Няколко селекции</string>
@@ -353,14 +356,14 @@ About the "Phone state and identity" Android permission: due to the backward com
 <!-- Application main texts -->
 
 <string name="application_eula">Преди да използвате приложението, моля прочетете, разберете и приемете Psyberia EULA:</string>
-<string name="application_disclaimer">Всички изображения, стойности, измервания и дадени в това приложение, са показателни и могат да съдържат грешки. Моля, използвайте внимателно.</string>
+<string name="application_disclaimer">Всички изображения, стойности, измервания и дадени в това приложение са показателни и могат да съдържат грешки. Моля, използвайте внимателно.</string>
 
 <string name="core_loader_loading">Зареждане на компоненти&#8230;</string>
 <string name="core_loader_restoring">Възстановяване на елементи&#8230;</string>
 
 <string name="canvas_feature_disabled">Поради правни проблеми тази функция е деактивирана за следните карта (и):</string>
 
-<string name="core_toolkit_error_report_message_1p">Благодарим Ви, че ни изпратихте този отчет, съдържащ грешка %s.</string>
+<string name="core_toolkit_error_report_message_1p">Благодарим Ви, че ни изпратихте този отчет съдържащ грешка %s.</string>
 
 <string name="core_workspace_switch">Промяна на работното пространство</string>
 <string name="core_workspace_default">Стандартно работно пространство</string>
@@ -378,11 +381,9 @@ About the "Phone state and identity" Android permission: due to the backward com
 
 <string name="maps_confirm_outbound_title">Извън картата</string>
 <string name="maps_confirm_outbound_desc">Картата, която сте избрали не съдържа данни за текущото местоположение, което ще доведе до празен екран.</string>
-<string name="maps_confirm_outbound_desc_slide">Искате ли да преместите изгледа на картата в зона покритие?</string>
+<string name="maps_confirm_outbound_desc_slide">Искате ли да преместите изгледа на картата в зона с покритие?</string>
 
-<string name="maps_favorites_save">Запази в предпочитани</string>
-<string name="maps_favorites_set_name">Предпочитани</string>
-<string name="maps_favorites_set_empty">Няма създадени и добавени в предпочитани карти</string>
+<string name="maps_favorites_set_empty">Няма създадени и добавени карти в предпочитани</string>
 
 <string name="maps_online_provider_title">Карти</string>
 <string name="maps_online_installed">Инсталирани карти</string>
@@ -393,18 +394,23 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="maps_online_suggest">Предлагам</string>
 
 <string name="maps_elevation_title">Надморска височина</string>
-<string name="maps_elevation_dem">Цифров модел на релефа(DEM)</string>
 <string name="maps_elevation_dem_activate">Използвай данни за висичината</string>
 <string name="maps_elevation_dem_download">Автоматично изтегляне на височинни данни</string>
 <string name="maps_elevation_dem_map">Показване на зони със съхранени данни за релефа</string>
 <string name="maps_elevation_dem_source_1p">Индикативни данни: %s</string>
+<string name="maps_elevation_dem">Цифров модел на релефа (DEM)</string>
+<string name="maps_elevation_map_heights">DEM Височини</string>
+<string name="maps_elevation_map_terrain">DEM Терен</string>
+<string name="maps_elevation_map_hillshade">DEM Hillshade Layer</string>
+<string name="maps_elevation_map_slopes">DEM Наклони (+30°) слой</string>
+<string name="maps_elevation_map_sensitive">DEM Висичини (прицизни)</string>
 
 <string name="maps_area_downloader_creator_zoom">Мащаб</string>
 <string name="maps_area_downloader_creator_cell_tile_1p">%s елемент</string>
 <string name="maps_area_downloader_creator_cell_tiles_1p">%s елемента</string>
 <string name="maps_area_downloader_process_terminated">Успешно завършено</string>
 <string name="maps_area_downloader_process_working">В процес на запазване</string>
-<string name="maps_area_downloader_settings_update">Актуализиране на вече съхранените данни.</string>
+<string name="maps_area_downloader_settings_update">Актуализиране на вече съхранените данни</string>
 
 <string name="maps_onboard_provider_title">Карти от файл</string>
 <string name="maps_onboard_import_folder_name">Импортирани карти</string>
@@ -452,7 +458,6 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_context_menu_edit_details">Редактиране на детайлите</string>
 <string name="landmarks_context_menu_edit_points">Редактиране на точките</string>
 <string name="landmarks_context_menu_edit_profile">Редактиране на профила</string>
-<string name="landmarks_context_menu_group_as_set">Group as a set</string>
 <string name="landmarks_context_menu_profile">Динамичен профил</string>
 <string name="landmarks_context_menu_rename_file">Преименуване</string>
 <string name="landmarks_context_menu_split_here">Раздели тук</string>
@@ -484,7 +489,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_create_side_save">Запази и затвори</string>
 <string name="landmarks_create_side_move_to_center">Премести в центъра</string>
 
-<string name="landmarks_folder_name_my_landmarks">Моите маркери/string>
+<string name="landmarks_folder_name_my_landmarks">Моите маркери</string>
 
 <string name="landmarks_offline_provider_title">Локални маркери</string>
 <string name="landmarks_offline_folder_unsorted">Несортирани маркери</string>
@@ -501,9 +506,9 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="search_name_scanner">Име</string>
 <string name="search_text_single">Едно поле (за копиране / поставяне)</string>
 <string name="search_text_format">Формат на търсене</string>
-<string name="search_dialog_incorrect_location">Неправилен формат на местоположението.</string>
-<string name="search_dialog_geocoder_failed">Неуспешно търсене.\n Вие трябва да имате достъп до интернет, за да търсите местоположение по име.</string>
-<string name="search_dialog_no_results">Няма намерен резултат.</string>
+<string name="search_dialog_incorrect_location_p">Неправилен формат на местоположението</string>
+<string name="search_dialog_geocoder_failed_p">Неуспешно търсене.\nНеобходимо е да имате достъп до интернет, за да търсите местоположение по име.</string>
+<string name="search_dialog_no_results_p">Няма намерен резултат</string>
 <string name="search_dialog_main_results">Основни резултати</string>
 <string name="search_dialog_other_results">Други резултати</string>
 
@@ -524,11 +529,12 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="orientation_direction">Посока</string>
 <string name="orientation_declination">Деклинация</string>
 <string name="orientation_compass_not_available">Не може да се активира компасът.На това устройство няма магнитен датчик.</string>
+<string name="orientation_compass_calibrate_message">За да калибрирате магнитния сензор завъртете устройството във всички посоки.</string>
 <string name="orientation_setting_sensor">Сензор</string>
 <string name="orientation_setting_compass_standard_name">Стандарт</string>
 <string name="orientation_setting_compass_standard_desc">Стрелката се върти, а мащабът е неподвижен</string>
 <string name="orientation_setting_compass_topochaix_desc">Стрелката и мащабът се въртят</string>
-<string name="orientation_setting_declination">Изчисляване на деклинацията, за да получаване на истинския север</string>
+<string name="orientation_setting_declination">Изчисляване на деклинацията, за да получаване на географския север</string>
 
 
 
@@ -554,16 +560,18 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="tracker_action_start_new">Започни нов</string>
 <string name="tracker_state_desc_binding">Свързване към услугата</string>
 <string name="tracker_state_desc_loading">Зареждане на данни от маршрута</string>
-<string name="tracker_state_desc_paused">Записът е на паузапауза</string>
+<string name="tracker_state_desc_paused">Записът е на пауза</string>
 <string name="tracker_state_desc_stopped">Записът е спрян</string>
 <string name="tracker_save_folder_name">Записани маршрути</string>
+<string name="tracker_group_recorded_tracks">Записани маршрути</string>
 <string name="tracker_save_desc_1p">AlpineQuest маршрути %s</string>
 <string name="tracker_group_last_track">Последния записан маршрут</string>
 <string name="tracker_message_resume_track">Да продължи ли текущия маршрут или да стартира нов?</string>
 <string name="tracker_message_save_track_failed">Запазването на текущия маршрут не бе успешно. Да бъдат ли изтрити данните?</string>
-<string name="tracker_settings_ignore_distance">Пропускане на местоположенията, ако няма движение</string>
-<string name="tracker_settings_use_barometer_desc">Записване стойностите на налягането за по-добро изчисляване на барометричните височини./string>
+<string name="tracker_settings_ignore_distance">Пропускане на местоположението, ако няма движение</string>
+<string name="tracker_settings_use_barometer_desc">Записване на барометричните стойности за по-добро изчисляване на барометричните височини.</string>
 <string name="tracker_settings_warn">Предупреждение при слаб или изгубен GPS сигнал</string>
+<string name="tracker_warning_huawei">Huawei потребител: Разрешете на приложението да работи във фонов режим от настройките на вашето устройството, в противен случай записа ще бъде спрян от системата.</string>
 
 
 
@@ -574,9 +582,10 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="geolocation_state_not_active">Не е активен</string>
 <string name="geolocation_source">Източник</string>
 <string name="geolocation_rate">Честота</string>
+<string name="geolocation_satellite_abbrev">сат</string>
 
 <string name="geolocation_source_title">Източник на позициониране</string>
-<string name="geolocation_source_disabled">Източникът е деактивиран.</string>
+<string name="geolocation_source_disabled">Източникът е деактивиран</string>
 <string name="geolocation_source_none_title">Без</string>
 <string name="geolocation_source_none_desc">На това устройство няма наличен източник на позициониране.</string>
 <string name="geolocation_source_auto_title">Автоматичен избор</string>
@@ -590,13 +599,13 @@ About the "Phone state and identity" Android permission: due to the backward com
 
 <string name="geolocation_rate_title">Интервал на записване</string>
 <string name="geolocation_rate_second">Всяка секунда</string>
-<string name="geolocation_rate_seconds_1p">Всяка %s сек.</string>
+<string name="geolocation_rate_seconds_1p">Всяка %s сек</string>
 <string name="geolocation_rate_precise_title">Висока точност</string>
 <string name="geolocation_rate_precise_desc">Повишена консумация на енергия.\nПрепоръчва се за сравнително къси разстояния с променлива скорост.</string>
 <string name="geolocation_rate_medium_title">Средна точност</string>
 <string name="geolocation_rate_medium_desc">Умерена консумация на енергия.\nПрепоръчва се за няколко часасови преходи.</string>
 <string name="geolocation_rate_economy_title">Приемлива точност</string>
-<string name="geolocation_rate_economy_desc">Ниска консумация на енергия.\nПрепоръчва се за многодневни  преходи.</string>
+<string name="geolocation_rate_economy_desc">Ниска консумация на енергия.\nПрепоръчва се за многодневни преходи.</string>
 
 
 
@@ -646,15 +655,13 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_display_location_secondary_title">Допълнителен формат на местоположението</string>
 <string name="settings_display_location_wgs84_second">Ширина/Дължина (Градуси, Минути, Секунди)</string>
 <string name="settings_display_location_wgs84_minute">Ширина/Дължина (Градуси, Минути)</string>
-<string name="settings_display_location_wgs84_Градусиree">Ширина/Дължина (Градуси)</string>
-<string name="settings_display_location_imported">Imported formats</string>
+<string name="settings_display_location_wgs84_degree">Ширина/Дължина (Градуси)</string>
+<string name="settings_display_location_imported">Импортирани формати</string>
 
 <string name="settings_display_bearings_title">Азимут</string>
 <string name="settings_display_bearings_degrees">Градуси</string>
 <string name="settings_display_bearings_gradians">Гради</string>
 <string name="settings_display_bearings_mils">Мили</string>
-
-
 
 <string name="settings_display_slopes_title">Формат за наклон</string>
 <string name="settings_display_slopes_percents">Проценти</string>
@@ -663,6 +670,15 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_display_pressures_title">Формат за налягане</string>
 <string name="settings_display_pressures_pascals">Хектопаскали</string>
 <string name="settings_display_pressures_mmhg">Милиметри живачен стълб</string>
+
+<string name="settings_display_reference_north_title">Референтен север</string>
+<string name="settings_display_reference_north_geographic">Географски север</string>
+<string name="settings_display_reference_north_grid">Меридианен  север</string>
+<string name="settings_display_reference_north_magnetic">Магнитен север</string>
+
+<string name="settings_display_heading_arrow">Стрелка</string>
+<string name="settings_display_heading_line">Линия</string>
+<string name="settings_display_heading_field_of_view">Иформационно поле</string>
 
 <string name="settings_technical_category">Общи настройки</string>
 <string name="settings_technical_fullscreen_title">Карта на цял екран</string>
@@ -680,22 +696,25 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_technical_path_title">Място за съхранение</string>
 <string name="settings_technical_path_desc">Определете къде да съхранявате изтеглените карти.</string>
 <string name="settings_technical_path_dialog_app_path">Директория за съхранение</string>
-<string name="settings_technical_path_dialog_message_read_only">Въвеждането на данни в определената директория е блокирано от операционната система.</string>
-<string name="settings_technical_path_dialog_message_removable">Тази директория ще бъде изтрита от системата, когато деинсталирате приложението.</string>
-<string name="settings_technical_path_dialog_restart_app">Моля, рестартирайте приложението.</string>
+<string name="settings_technical_path_dialog_warning_read_only">Въвеждането на данни в определената директория е блокирано от операционната система.</string>
+<string name="settings_technical_path_dialog_warning_removable">Тази директория ще бъде изтрита от системата, когато деинсталирате приложението.</string>
+<string name="settings_technical_path_dialog_warning_vulnerable">Ако използвате приложение за поддръжка, то може да изтрие това местоположение.</string>
+<string name="settings_technical_path_dialog_warning_samsung">Тава местоположение ще бъде изтрито от поддържката на Samsung!</string>
+<string name="settings_technical_path_dialog_restart_app">Моля, рестартирайте приложението</string>
 
 <string name="settings_canvas_category">Настройки на екрана</string>
 <string name="settings_canvas_text_size_title">Размер на информационните панели</string>
 <string name="settings_canvas_text_size_desc">Определете размера на текстовете в информационните панели върху картата.</string>
 <string name="settings_canvas_infobox_background_title">Цвят на информационните панели</string>
 <string name="settings_canvas_infobox_background_desc">Определете цвета на фона на информационните панели.</string>
+<string name="settings_canvas_long_press_map_title">Продължително задържане върху картата</string>
+<string name="settings_canvas_long_press_map_desc">Дефинирайте кое действие да се задейства при продължително задържане върху картата.</string>
+<string name="settings_canvas_long_press_map_action_hide_controls">Скриване на бутоните</string>
+<string name="settings_canvas_long_press_map_action_map_only">Покажи само картата</string>
 <string name="settings_canvas_zoom_type_title">Управление на мащаба</string>
 <string name="settings_canvas_zoom_type_desc">Определете кои контроли за мащабиране да се показват върху картата.</string>
-<string-array name="settings_canvas_zoom_type_entries">
-	<item>Без</item>
-	<item>Бутони</item>
-	<item>Бутони и плъзгач</item>
-</string-array>
+<string name="settings_canvas_zoom_type_mode_buttons">Бутони</string>
+<string name="settings_canvas_zoom_type_mode_all">Бутони и плъзгач</string>
 <string name="settings_canvas_lock_zoom_title">Фиксиране мащаба на картата</string>
 <string name="settings_canvas_lock_zoom_desc">Автоматично заключва стойността на картовия мащаб.</string>
 <string name="settings_canvas_multitouch_zoom_title">Мащабиране с пръсти</string>
@@ -703,9 +722,8 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_canvas_multitouch_rotate_title">Ръчно завъртане на картата</string>
 <string name="settings_canvas_multitouch_rotate_desc">Позволява да контролирате ориентацията на картата с два пръста.</string>
 <string name="settings_canvas_hres_map_title">Разделителна способност на картата</string>
-<string name="settings_canvas_hres_map_desc">Показва размера на картата върху екрана.</string> 
+<string name="settings_canvas_hres_map_desc">Показва размера на картата върху екрана.</string>
 
-<string name="settings_landmarks_category">Маркери</string>
 <string name="settings_landmarks_display_size_title">Размер на маркера</string>
 <string name="settings_landmarks_display_size_desc">Размер на маркера (пътеки, точки, икони), показани върху картата.</string>
 <string name="settings_landmarks_display_color_title">Цвят по подразбиране</string>
@@ -714,32 +732,28 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="settings_landmarks_display_target_color_desc">Цветът на целите, които се показват върху картата.</string>
 <string name="settings_landmarks_display_borders_title">Показване на границите</string>
 <string name="settings_landmarks_display_borders_desc">Изчертава граница за видимите маркери.</string>
-<string name="settings_landmarks_display_shadow_title">Показване на сянка</string>
-<string name="settings_landmarks_display_shadow_desc">Показва сянка върху видимите маркери.</string>
+<string name="settings_landmarks_display_shadows_title">Показване на сянка</string>
+<string name="settings_landmarks_display_shadows_desc">Показва сянка върху видимите маркери.</string>
 <string name="settings_landmarks_display_time_bounds_title">Времетраене на записа</string>
 <string name="settings_landmarks_display_time_bounds_desc">Показване на времето за начало и край на записа.</string>
 <string name="settings_landmarks_preprocess_title">Преработване на записи</string>
 <string name="settings_landmarks_preprocess_desc">Подобрява точността на записите, като филтрира и коригира точките.</string>
 
-<string name="settings_geolocation_category">GPS локализация</string>
-<string name="settings_geolocation_disable_in_back_title">Деактивиране във фонов режим</string>
-<string name="settings_geolocation_disable_in_back_desc">Деактивира GPS локализацията, когато приложението работи във фонов режим за да пести батерия.</string>
 <string name="settings_geolocation_relock_location_title">Автоматично връщане в центъра на екрана</string>
 <string name="settings_geolocation_relock_location_desc">Автоматично връщане на текущата GPS позиция в центъра на екрана след 10 секунди на неактивност (след смяната на картата)</string>
-<string name="settings_geolocation_current_heading_title">Текуща позиция</string>
-<string name="settings_geolocation_current_heading_desc">Показва върху картата текущото GPS местоположение.</string>
 <string name="settings_geolocation_previous_locations_title">Предишни местоположения</string>
 <string name="settings_geolocation_previous_locations_desc">Показва върху картата предишни GPS местоположения.</string>
+<string name="settings_geolocation_distance_line_title">Разстояние</string>
+<string name="settings_geolocation_distance_line_desc">Показва разстоянието от текущото ви местоположение до центъра на екрана.</string>
+<string name="settings_geolocation_course_display_type_title">Курсор</string>
+<string name="settings_geolocation_course_display_type_desc">Дефинирайте как да изглежда курсора върху картата на текущото ви местоположение.</string>
+<string name="settings_geolocation_disable_in_back_title">Деактивиране във фонов режим</string>
+<string name="settings_geolocation_disable_in_back_desc">Деактивира GPS локализацията, когато приложението работи във фонов режим за да пести батерия.</string>
 <string name="settings_geolocation_egm96_adjustment_title">EGM96 GPS корекция</string>
 <string name="settings_geolocation_egm96_adjustment_desc">Изчислява по-точни надморски височини, използвайки геоидния модел EGM96.</string>
 
-<string-array name="settings_size_entries">
-	<item>Много малък</item>
-	<item>Малък</item>
-	<item>Среден</item>
-	<item>Голям</item>
-	<item>Много голям</item>
-</string-array>
+<string name="settings_orientation_heading_display_type_title">Текуща посока</string>
+<string name="settings_orientation_heading_display_type_desc">Дефинирайте как да изглежда текущата посока върху картата.</string>
 
 
 
@@ -755,9 +769,9 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="atk_metadata_creator">Автор</string>
 <string name="atk_metadata_date">Дата</string>
 <string name="atk_metadata_description">Описание</string>
-<string name="atk_metadata_description_none">Няма описание.</string>
+<string name="atk_metadata_description_none">Няма описание</string>
 <string name="atk_metadata_dyncolor">Динамични цветове</string>
-<string name="atk_metadata_email">Имейл </string>
+<string name="atk_metadata_email">Имейл</string>
 <string name="atk_metadata_file_data">Файл с данни</string>
 <string name="atk_metadata_file_path">Път</string>
 <string name="atk_metadata_group">Група</string>
@@ -809,9 +823,10 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="core_canvas_online_tile_not_available">Не се предлага</string>
 <string name="core_canvas_online_tile_local_storage_only">Офлайн режим</string>
 
-<string name="core_details_file_dont_exists">Файлът не съществува.</string>
-<string name="core_details_no_information">Няма информация.</string>
+<string name="core_details_file_dont_exists">Файлът не съществува</string>
+<string name="core_details_no_information">Няма информация</string>
 <string name="core_details_category_metadata">Информация</string>
+<string name="core_details_category_geocaching">Geocaching</string>
 
 <string name="core_button_open_with_external">Друго приложение</string>
 <string name="core_button_open_with_direction">Получаване на упътвания</string>
@@ -880,10 +895,11 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_explorer_dialog_load_error_memory">Приложението не можа да зареди целия файл поради липса на памет.</string>
 
 <string name="landmarks_side_profile_touch">Докоснете профила за да го управлявате</string>
+<string name="landmarks_side_control_time_bulk_start">Стартиране на всички активни записи едновременно.</string>
 
 <string name="landmarks_follow_path_option_reverse">В обратната посока</string>
 <string name="landmarks_follow_path_option_loop">Контур</string>
-<string name="landmarks_follow_path_option_distance_1p">Минималното разстояние до най-близката целева точка %s </string>
+<string name="landmarks_follow_path_option_distance_1p">Минималното разстояние до най-близката целева точка %s</string>
 <string name="landmarks_follow_path_option_warn_me_1p">Предупреждение при отклонение от маршрута на повече от %s</string>
 <string name="landmarks_follow_path_option_dont_warn_me">Без предупреждение при отклонение</string>
 
@@ -904,12 +920,12 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_details_statistics_moving_line_up">Нагоре</string>
 <string name="landmarks_details_statistics_moving_line_down">Надолу</string>
 <string name="landmarks_details_statistics_category_events">Събития</string>
-<string name="landmarks_details_statistics_events_line_break_1p">Почивка от %s.</string>
-<string name="landmarks_details_statistics_events_line_max_speed_1p">Максимална скорост от %s.</string>
-<string name="landmarks_details_statistics_events_line_min_elevation_1p">Минимална височина от %s.</string>
-<string name="landmarks_details_statistics_events_line_max_elevation_1p">Максимална височина от %s.</string>
-<string name="landmarks_details_statistics_events_line_start_1p">Начало в %s.</string>
-<string name="landmarks_details_statistics_events_line_end_1p">Край в %s.</string>
+<string name="landmarks_details_statistics_events_line_break_1p">Почивка от %s</string>
+<string name="landmarks_details_statistics_events_line_max_speed_1p">Максимална скорост от %s</string>
+<string name="landmarks_details_statistics_events_line_min_elevation_1p">Минимална височина от %s</string>
+<string name="landmarks_details_statistics_events_line_max_elevation_1p">Максимална височина от %s</string>
+<string name="landmarks_details_statistics_events_line_start_1p">Начало в %s</string>
+<string name="landmarks_details_statistics_events_line_end_1p">Край в %s</string>
 <string name="landmarks_details_statistics_category_about">Статистически настройки</string>
 <string name="landmarks_details_statistics_about_line_noise_reduction">Филтриране на смущенията</string>
 <string name="landmarks_details_statistics_about_line_moving">Минимална скорост за отчитане на движение</string>
@@ -918,23 +934,18 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_details_no_data_time">Няма данни за времето</string>
 <string name="landmarks_details_no_data_elevation">Няма данни за височината</string>
 
-<string name="landmarks_sym_selected_1p">%s избрани</string>
 <string name="landmarks_sym_group_custom">По избор</string>
-<string name="landmarks_sym_group_land">Забележителност</string>
-<string name="landmarks_sym_group_acco">Настаняване</string>
-<string name="landmarks_sym_group_amen">Бит</string>
-<string name="landmarks_sym_group_barr">Препятствие</string>
-<string name="landmarks_sym_group_educ">Образование</string>
+<string name="landmarks_sym_group_accommodation">Настаняване</string>
+<string name="landmarks_sym_group_amenity">Бит</string>
 <string name="landmarks_sym_group_food">Храна</string>
 <string name="landmarks_sym_group_health">Здраве</string>
-<string name="landmarks_sym_group_man">Човек</string>
-<string name="landmarks_sym_group_money">Пари</string>
-<string name="landmarks_sym_group_nat">Природа</string>
+<string name="landmarks_sym_group_manmade">Човек</string>
+<string name="landmarks_sym_group_natural">Природа</string>
 <string name="landmarks_sym_group_power">Енергия</string>
-<string name="landmarks_sym_group_shop">Пазаруване</string>
+<string name="landmarks_sym_group_shopping">Пазаруване</string>
 <string name="landmarks_sym_group_sport">Спорт</string>
-<string name="landmarks_sym_group_tour">Туризъм</string>
-<string name="landmarks_sym_group_trans">Транспорт</string>
+<string name="landmarks_sym_group_tourism">Туризъм</string>
+<string name="landmarks_sym_group_transport">Транспорт</string>
 <string name="landmarks_sym_group_water">Вода</string>
 <string name="landmarks_sym_group_worship">Преклонение</string>
 
@@ -945,7 +956,7 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_import_xsv_first_row_headers">Заглавия на първия ред</string>
 
 <string name="landmarks_ldks_provider_title">Онлайн маркери</string>
-<string name="landmarks_ldks_provider_unavailable">Съжалявам, но към момента общностните маркири са достъпни само в пълната  версия на проложението.</string>
+<string name="landmarks_ldks_provider_unavailable">Съжалявам, но към момента общностните маркири са достъпни само в пълната версия на проложението.</string>
 
 <string name="landmarks_ldks_signin_desc">Запазете маркерите си онлайн и ги споделете с приятелите си.</string>
 <string name="landmarks_ldks_signin_button">Вписване</string>
@@ -962,12 +973,12 @@ About the "Phone state and identity" Android permission: due to the backward com
 <string name="landmarks_ldks_toast_connection_failed">Неуспешно свързване със сървъра, работете офлайн.</string>
 <string name="landmarks_ldks_toast_modify_success">Модификациите бяха успешно записани на сървъра.</string>
 <string name="landmarks_ldks_toast_update_tiles_1p">Актуализиране на данните от сървъра (%s остават)&#8230;</string>
-<string name="landmarks_ldks_toast_update_success_1p">%s нови елемента.</string>
+<string name="landmarks_ldks_toast_update_success_1p">%s нови елемента</string>
 <string name="landmarks_ldks_dialog_modify_failed">Промените не бяха записани на сървъра. Моля, проверете за последните промени.</string>
 <string name="landmarks_ldks_dialog_wrong_version">Вашата версия вече не се поддържа. Моля, актуализирайте я.</string>
-<string name="landmarks_ldks_explorer_header_title_offline">Офлайн режим.</string>
-<string name="landmarks_ldks_explorer_header_up_to_date">Актуално.</string>
-<string name="landmarks_ldks_explorer_header_pendings_1p">%s предстоящи задачи.</string>
+<string name="landmarks_ldks_explorer_header_title_offline">Офлайн режим</string>
+<string name="landmarks_ldks_explorer_header_up_to_date">Актуално</string>
+<string name="landmarks_ldks_explorer_header_pendings_1p">%s предстоящи задачи</string>
 
 <string name="landmarks_ldks_context_menu_log_off">Отписване</string>
 <string name="landmarks_ldks_context_menu_account">Моя профил</string>
