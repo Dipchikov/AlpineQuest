@@ -5,26 +5,26 @@
 
 AlpineQuest е мултифункционално решение за всички видове спорт и дейности на открито, като туризъм, бягане, лов, off-road, корабоплаване и много други.
 
-Можете да използвате и запазвате на устройството  голям брой <b>онлайн топографски карти, които ще са налични</b>, дори и когато излезете от зоната на покритие на клетъчния оператор. AlpineQuest също така поддържа <b>различни картови формати</b>, например QCT и OZFx2.
+Можете да използвате и запазвате на устройството голям брой <b>онлайн топографски карти, които ще са налични</b>, дори и когато излезете от зоната на покритие на клетъчния оператор. AlpineQuest също така поддържа <b>различни картови формати</b>, например QCT и OZFx2.
 
 Никога няма да се изгубите, ако използвате GPS приемника и магнитния сензор на вашето устройство (компас) - <b>Вашето местоположение ще се показва на картата в реално време</b>.
 
-Запазване и качване на <b>маркери (точки)</b>, които може да споделите с вашите приятели. <b>Записване на маршрути</b> с подробни статистически данни, интерактивни графики и още  пълна информация за това къде и как да маршрутизирате.
+Запазване и качване на <b>маркери (точки)</b>, които може да споделите с вашите приятели. <b>Записване на маршрути</b> с подробни статистически данни, интерактивни графики и още пълна информация за това къде и как да маршрутизирате.
 
-Ще останете напълно функционални извън зоната на покритие на клетъчния оператор (например в планината, в гората, на открито), програмата AlpineQuest ще Ви помогне да стигнете до най-отдалечените места.
+Ще останете напълно функционални извън зоната на покритие на клетъчния оператор (например в планината, в гората, на открито), програмата AlpineQuest ще Ви помогне да стигнете до най-отдалечените места...
 
 <b><b>Не се колебайте, опитайте пълната версия!</b></b> [for full version]
 <b><b>Не се колебайте, използвайте я сега безплатно!</b></b> [for free version]
 
-Моля, споделяйте предложения и проблеми на нашия форум http://www.alpinequest.net/forum (не е необходима регистрация, отговори на всички въпроси).
+Моля, споделяйте предложения и проблеми на нашия форум https://www.alpinequest.net/forum (не е необходима регистрация, отговори на всички въпроси).
 
 
 <u><b>Основни функции:</b></u> (за пълната версия):
 
 ★★ <b>Карти</b> ★★
 • Вградени <b>онлайн карти</b> (с <b>автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
-• Вградени<b>онлайн слоеве</b> ( пътища, хълмове, контури, височини и т.н.);
-• Получавате много онлайн карти и слоеве само с едно кликване върху списъка с включени карти (карти на Nokia, Yahoo! Maps, локални,топогрофски и много други карти);
+• Вградени<b>онлайн слоеве</b> (пътища, хълмове, контури, височини и т.н.);
+• Получавате много онлайн карти и слоеве само с едно кликване върху списъка с включени карти (карти на Nokia, Yahoo! Maps, локални, топогрофски и много други карти);
 • Изчислява<b>място за съхранение</b>на онлайн карти за офлайн използване;
 • <b>Вградени офлайн карти</b>за поддръжка (посетете нашия уебсайт и изтеглете безплатна програма за създаване на офлайн карти MOBAC);
 • <b>Карта памет</b> (само картите QuickChart .qct - .qc3 не се поддържат);
@@ -33,7 +33,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 ★★ <b>Етикети</b> ★★
 • Запазване, възстановяване, показване на неограничен брой точки и маршрути;
-• Експортиране / импортиране на файлове <b>GPX</b>, <b>файлове на Google Earth KML/KMZ</b>, <b>CSV/TSV</b>;
+• Експортиране / импортиране на файлове <b>GPX</b>, файлове на <b>Google Earth KML/KMZ</b>, <b>CSV/TSV</b>;
 • Поддръжка на точки от формат <b>ShapeFile SHP/PRJ/DBF</b>, <b>Ozi Explorer WPT/PLT</b>, <b>Geocaching LOC</b> файлове;
 • Достъп до онлайн базата данни с потребителски точки от общността - запишете вашите точки, споделете ги и с други потребители;
 • Подробности, <b>разширени статистически данни</b> и <b>интерактивна графика</b>;
@@ -51,7 +51,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 ★★ <b>Още:</b> ★★
 • Различни мерни единици за измерване на разстояние;
-• Различни GPS формати за географска ширина/дължина и координатна мрежа (UTM, MGRS, USNG, OSGB, ирландска мрежа, швейцарска мрежа, Lambert Grids, DFCI Grid, QTH Maidenhead Locator System, ...);
+• Различни GPS формати за географска ширина/дължина и координатна мрежа (UTM, MGRS, USNG, OSGB, ирландска мрежа, швейцарска мрежа, Lambert Grids, QTH Maidenhead Locator System, ...);
 • Възможност за импортиране на стотици координатни формати от http://www.spatialreference.org;
 • Възможност за показване на координатната мрежа върху картата;
 • Възможност за изглед на цял екран;
@@ -129,7 +129,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="om_whatsnew_no_more_ads">Без повече реклами!</string>
 <string name="om_whatsnew_howto_title">Как работи?</string>
-<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват в устройството, за да останат лесно достъпни дори и когато сте офлайн. \пИма много налични карти, които могат да се показват като слоеве.</string>
+<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват в устройството, за да останат лесно достъпни дори и когато сте офлайн.\nИма много налични карти, които могат да се показват като слоеве.</string>
 <string name="om_whatsnew_plus_title">Искате ли да се отървете от рекламите?</string>
 <string name="om_whatsnew_plus_content">Подкрепете ни, като изберете пълната версия без реклами:</string>
 
@@ -196,11 +196,11 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_close">Затвори</string>
 <string name="core_button_contact_us">Свържете се с нас</string>
 <string name="core_button_copy">Копирай</string>
-<string name="core_button_create">Създай</string>
+<string name="core_button_create">Добави</string>
 <string name="core_button_cut">Изрежи</string>
 <string name="core_button_delete">Изтрий</string>
 <string name="core_button_details">Детайли</string>
-<string name="core_button_display">Покажи на картата</string>
+<string name="core_button_display">Покажи</string>
 <string name="core_button_edit">Редактирай</string>
 <string name="core_button_empty">Празно</string>
 <string name="core_button_enter_coupon">Въведете купон</string>
@@ -208,7 +208,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_filter">Филтър</string>
 <string name="core_button_fullscreen">Цял екран</string>
 <string name="core_button_gallery">Галерия</string>
-<string name="core_button_group">Групиране</string>
+<string name="core_button_group">Групирай</string>
 <string name="core_button_hide">Скрий</string>
 <string name="core_button_import">Импортиране</string>
 <string name="core_button_insert_here">Вмъкни тук</string>
@@ -278,7 +278,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_utils_units_area_hectare_abbrev">ха</string>
 <string name="core_utils_units_area_are_abbrev">ар</string>
 <string name="core_utils_units_pressure_hpa_abbrev">хПa</string>
-<string name="core_utils_units_pressure_mmhg_abbrev">мм ж. ст.,</string>
+<string name="core_utils_units_pressure_mmhg_abbrev">мм ж. ст.</string>
 <string name="core_utils_units_weigth_kg_abbrev">кг</string>
 <string name="core_utils_units_weigth_lbs_abbrev">паунд</string>
 <string name="core_utils_units_energy_kcal_abbrev">ккал</string>
@@ -289,7 +289,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_toolkit_share_location_list_empty">Няма местоположение за показване</string>
 
 <string name="core_toolkit_loading">Зареждане</string>
-<string name="core_toolkit_please_wait">Моля, изчакайте...</string>
+<string name="core_toolkit_please_wait">Моля, изчакайте&#8230;</string>
 <string name="core_toolkit_success">Успешно</string>
 <string name="core_toolkit_error">Грешка</string>
 <string name="core_toolkit_error_no_network">Няма мрежа</string>
@@ -310,7 +310,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_toolkit_error_intent_input_s">Не може да се обработва външно съдържание!</string>
 <string name="core_toolkit_error_service_unavailable_s">Услугата е недостъпна!</string>
 
-<string name="core_toolkit_message_item_saved_s">Елементът е запазен!</string>
+<string name="core_toolkit_message_item_saved_s">Елементът е запазен</string>
 
 <string name="core_toolkit_question_are_you_sure_s">Сигурни ли сте?</string>
 <string name="core_toolkit_question_confirm_exit_s">Затваряне на приложението</string>
@@ -330,10 +330,10 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_explorer_favorite_items">Предпочитани</string>
 <string name="core_explorer_favorite_item">Предпочитан</string>
 
-<string name="core_explorer_item_delete_success_s">Eлемента е изтрит!</string>
-<string name="core_explorer_item_move_success_s">Eлемента е преместeн!</string>
-<string name="core_explorer_item_rename_success_s">Eлемента е преименуван!</string>
-<string name="core_explorer_item_copy_success_s">Eлемента е копиран!</string>
+<string name="core_explorer_item_delete_success_s">Eлемента е изтрит</string>
+<string name="core_explorer_item_move_success_s">Eлемента е преместeн</string>
+<string name="core_explorer_item_rename_success_s">Eлемента е преименуван</string>
+<string name="core_explorer_item_copy_success_s">Eлемента е копиран</string>
 
 <string name="core_explorer_context_group_sort_title">Подреди по</string>
 <string name="core_explorer_context_group_multiselect">Няколко селекции</string>
@@ -356,7 +356,7 @@ AlpineQuest е мултифункционално решение за всичк
 <!-- Application main texts -->
 
 <string name="application_eula">Преди да използвате приложението, моля прочетете, разберете и приемете Psyberia EULA:</string>
-<string name="application_disclaimer">Всички изображения, стойности, измервания и дадени в това приложение са показателни и могат да съдържат грешки. Моля, използвайте внимателно!</string>
+<string name="application_disclaimer">Всички изображения, стойности, измервания и дадени в това приложение са показателни и могат да съдържат грешки. Моля, използвайте внимателно.</string>
 
 <string name="core_loader_loading">Зареждане на компоненти&#8230;</string>
 <string name="core_loader_restoring">Възстановяване на елементи&#8230;</string>
@@ -383,13 +383,13 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_confirm_outbound_desc">Картата, която сте избрали не съдържа данни за текущото местоположение, което ще доведе до празен екран.</string>
 <string name="maps_confirm_outbound_desc_slide">Искате ли да преместите изгледа на картата в зона с покритие?</string>
 
-<string name="maps_favorites_set_empty">Няма създадени и добавени карти в предпочитани!</string>
+<string name="maps_favorites_set_empty">Няма създадени и добавени карти в предпочитани</string>
 
 <string name="maps_online_provider_title">Карти</string>
 <string name="maps_online_installed">Инсталирани карти</string>
 <string name="maps_online_clear_data">Изчистване на данните</string>
 <string name="maps_online_clear_data_confirm">Да се изтрият ли всички запазени данни на тази карта?</string>
-<string name="maps_online_add_new">Добавете още карти!</string>
+<string name="maps_online_add_new">Добавете още карти?</string>
 <string name="maps_online_add_new_desc">Можете да прегледате и да инсталирате карти от общността:</string>
 <string name="maps_online_suggest">Предлагам</string>
 
@@ -413,7 +413,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_area_downloader_settings_update">Актуализиране на вече съхранени данни</string>
 
 <string name="maps_onboard_provider_title">Карти от файл</string>
-<string name="maps_onboard_import_folder_name">Импортирани карти</string>
+<string name="maps_onboard_import_folder_name">Imported maps</string>
 <string name="maps_onboard_explorer_group_inbounds">Карти в границите</string>
 <string name="maps_onboard_explorer_group_outbounds">Карти извън границите</string>
 
@@ -454,6 +454,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_explorer_sort_distance">Разстояние от центъра на екрана</string>
 
 <string name="landmarks_context_menu_auto_target">Автоматична цел най-близо до точката</string>
+<string name="landmarks_context_menu_erase_color">Изтриване на цвета</string>
 <string name="landmarks_context_menu_edit_color">Редактиране на цвета</string>
 <string name="landmarks_context_menu_edit_details">Редактиране на детайлите</string>
 <string name="landmarks_context_menu_edit_points">Редактиране на точките</string>
@@ -465,10 +466,10 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_context_menu_target_remove">Премахване на целта</string>
 <string name="landmarks_context_menu_target_set">Задай като цел</string>
 
-<string name="landmarks_create_waypoint_desc">Маркирайте местоположение на картата с известна информация.</string>
-<string name="landmarks_create_picture_desc">Маркирайте местоположение на картата със снимка и информация.</string>
-<string name="landmarks_create_set_desc">Маркирайте няколко точки на картата и ги управявайте заедно.</string>
-<string name="landmarks_create_route_desc">Маркирайте множество подредени точки на картата.</string>
+<string name="landmarks_create_waypoint_desc">Създайте точка върху картата.</string>
+<string name="landmarks_create_picture_desc">Направете снимка и я добавете като точка върху картата.</string>
+<string name="landmarks_create_set_desc">Създайте множество от точки върху картата и ги управявайте заедно.</string>
+<string name="landmarks_create_route_desc">Създайте маршрут от подредени точки върху картата.</string>
 <string name="landmarks_create_area_desc">Ръчно изчертайте контура върху картата.</string>
 <string name="landmarks_create_path_desc">Ръчно изчертайте пътя върху картата.</string>
 <string name="landmarks_create_file_desc">Създайте празен файл за етикети.</string>
@@ -492,9 +493,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_folder_name_my_landmarks">Моите маркери</string>
 
 <string name="landmarks_offline_provider_title">Локални маркери</string>
-<string name="landmarks_offline_folder_unsorted">Несортирани маркери</string>
-<string name="landmarks_offline_folder_import">Импортирани маркери</string>
-<string name="landmarks_offline_folder_export">Експортирани маркери</string>
+<string name="landmarks_offline_folder_unsorted">Unsorted landmarks</string>
+<string name="landmarks_offline_folder_import">Imported landmarks</string>
+<string name="landmarks_offline_folder_export">Exported landmarks</string>
 
 
 
@@ -528,7 +529,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="orientation_bearing">Азимут</string>
 <string name="orientation_direction">Посока</string>
 <string name="orientation_declination">Деклинация</string>
-<string name="orientation_compass_not_available">Не може да се активира компасът.На това устройство няма магнитен датчик.</string>
+<string name="orientation_compass_not_available">Не може да се активира компасът. На това устройство няма магнитен датчик.</string>
 <string name="orientation_compass_calibrate_message">За да калибрирате магнитния сензор завъртете устройството във всички посоки.</string>
 <string name="orientation_setting_sensor">Сензор</string>
 <string name="orientation_setting_compass_standard_name">Стандарт</string>
@@ -589,7 +590,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="geolocation_source_none_title">Без</string>
 <string name="geolocation_source_none_desc">На това устройство няма наличен източник на позициониране.</string>
 <string name="geolocation_source_auto_title">Автоматичен избор</string>
-<string name="geolocation_source_auto_desc">Местоположение осигурено чрез GPS  и безжична мрежа</string>
+<string name="geolocation_source_auto_desc">Местоположение осигурено чрез GPS и безжична мрежа</string>
 <string name="geolocation_source_gps_title">GPS приемник</string>
 <string name="geolocation_source_gps_desc">Местоположение осигурено чрез GPS сателити. Изисква отворено пространство и време за инициализация.</string>
 <string name="geolocation_source_network_title">Безжична мрежа</string>
@@ -673,7 +674,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="settings_display_reference_north_title">Референтен север</string>
 <string name="settings_display_reference_north_geographic">Географски север</string>
-<string name="settings_display_reference_north_grid">Меридианен  север</string>
+<string name="settings_display_reference_north_grid">Меридианен север</string>
 <string name="settings_display_reference_north_magnetic">Магнитен север</string>
 
 <string name="settings_display_heading_arrow">Стрелка</string>
@@ -689,7 +690,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_screen_on_desc">Екрана няма да се изключи, докато картата е активна.</string>
 <string name="settings_technical_disable_keyguard_title">Отключване на екрана</string>
 <string name="settings_technical_disable_keyguard_desc">Премахва заключването на екрана, когато приложението е стартирано.</string>
-<string name="settings_technical_volume_zoom_title">Мащабиране с бутоните </string>
+<string name="settings_technical_volume_zoom_title">Мащабиране с бутоните</string>
 <string name="settings_technical_volume_zoom_desc">Чрез бутоните за сила на звука може да увеличите или намалите мащаба на картата.</string>
 <string name="settings_technical_confirm_exit_title">Потвърждение при изход</string>
 <string name="settings_technical_confirm_exit_desc">Допълнително потвърждение при изход от приложението</string>
@@ -853,7 +854,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_graphics_axis_incline_desc">Наклонът между местоположенията е изчислен от GPS надморската височина.</string>
 <string name="core_graphics_axis_pressure_raw_desc">Некалибрирано налягане спрямо зададеното в барометъра.</string>
 <string name="core_graphics_axis_pressure_sl_desc">Изчислено налягане на морското равнище е определено от GPS надморската височина и барометъра.</string>
-<string name="core_graphics_axis_accuracy_desc">Точност на местоположението (равно на 68&#37; )</string>
+<string name="core_graphics_axis_accuracy_desc">Точност на местоположението (равно на 68&#37;)</string>
 
 
 
@@ -995,23 +996,23 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="landmarks_ldks_explorer_name_user">Потребител</string>
 <string name="landmarks_ldks_explorer_name_my_landmarks_title">Моите точки</string>
-<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Вашите онлайн точки</string>
+<string name="landmarks_ldks_explorer_name_my_landmarks_desc">Вашите онлайн точки.</string>
 <string name="landmarks_ldks_explorer_name_public_landmarks_title">Моите публичини точки</string>
 <string name="landmarks_ldks_explorer_name_public_landmarks_desc">Публичини точки, които сте създали или променили.</string>
 <string name="landmarks_ldks_explorer_name_my_friends_title">Моите приятели</string>
 <string name="landmarks_ldks_explorer_name_my_friends_desc">Добавяйте потребители за да получавате достъп до техните точки.</string>
 
 <string name="landmarks_ldks_create_folder_hidden_title">Скрита папка</string>
-<string name="landmarks_ldks_create_folder_hidden_desc">Преглеждайте скритите подпапки</string>
+<string name="landmarks_ldks_create_folder_hidden_desc">Преглеждайте скритите подпапки.</string>
 <string name="landmarks_ldks_create_friend_title">Приятел</string>
 <string name="landmarks_ldks_create_friend_desc">Дабавете нов потребител като приятел, за да виждате неговите точки.</string>
 <string name="landmarks_ldks_create_public_waypoint_title">Публичина точка</string>
 <string name="landmarks_ldks_create_public_waypoint_desc">Добавете информация за това местоположение. На картата ще се създаде нова точка, която ще се вижда от всички потребители.</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Моля, преди да създадете нова точка проверете дали на това местоположение вече няма друга точка!</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Публичините точки се виждат от всички потребители. Моля, не въвеждайте никаква лична информация!</string>
-<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Внимателно изберете иконата на точката, тя ще се покаже на картата и ще се вижда от всички потребители!</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_check">Моля, преди да създадете нова точка проверете дали на това местоположение вече няма друга точка.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_personal">Публичините точки се виждат от всички потребители. Моля, не въвеждайте никаква лична информация.</string>
+<string name="landmarks_ldks_create_public_waypoint_disclaimer_correct">Внимателно изберете иконата на точката, тя ще се покаже на картата и ще се вижда от всички потребители.</string>
 
-<string name="landmarks_ldks_details_line_visibility">Видима</string>
+<string name="landmarks_ldks_details_line_visibility">Видимост</string>
 <string name="landmarks_ldks_details_line_visibility_private">Частна</string>
 <string name="landmarks_ldks_details_line_visibility_hidden">Скрита</string>
 <string name="landmarks_ldks_details_line_visibility_public">Публичина</string>
@@ -1033,5 +1034,5 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="activation_dialog_desc_lite">Насладете се на всички функции на AlpineQuest, като закупите пълната версия (налична в Google Play).</string>
 <string name="activation_dialog_url_lite">Кликнете тук, за да получите повече информация от Google Play</string>
 <string name="activation_dialog_title_online">Неактивирана версия</string>
-<string name="activation_dialog_desc_online">Насладете се на всички функции на AlpineQuest, като активирате вашето копие. Активирането е бързо и е валидно за всички бъдещи версии</string>
+<string name="activation_dialog_desc_online">Насладете се на всички функции на AlpineQuest, като активирате вашето копие. Активирането е бързо и е валидно за всички бъдещи версии.</string>
 <string name="activation_dialog_url_online">Кликнете тук, за да получите повече информация на нашия уебсайт</string>
