@@ -375,7 +375,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <!-- Maps feature main texts -->
 
-<string name="maps_context_menu_layer">Добавете като слой</string>
+<string name="maps_context_menu_layer">Добави като слой</string>
 <string name="maps_context_menu_opacity">Прозрачност на слоя</string>
 <string name="maps_context_menu_key">Легенда на картата</string>
 
