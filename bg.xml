@@ -686,7 +686,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_fullscreen_desc">За да излезете от режим на цял екран, използвайте бутона меню.</string>
 <string name="settings_technical_immersive_title">Скриващ режим</string>
 <string name="settings_technical_immersive_desc">Скрива панела за навигация на устройството в режим на цял екран.</string>
-<string name="settings_technical_screen_on_title">Винаги е включен екран</string>
+<string name="settings_technical_screen_on_title">Винаги включен екран</string>
 <string name="settings_technical_screen_on_desc">Екрана няма да се изключи, докато картата е активна.</string>
 <string name="settings_technical_disable_keyguard_title">Отключване на екрана</string>
 <string name="settings_technical_disable_keyguard_desc">Премахва заключването на екрана, когато приложението е стартирано.</string>
