@@ -845,13 +845,13 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_graphics_not_enough_data">Няма достатъчно данни</string>
 <string name="core_graphics_title_y">Задайте на ос Y</string>
 <string name="core_graphics_title_x">Задайте на ос X</string>
-<string name="core_graphics_axis_none_desc">Не използвай тези оси.</string>
-<string name="core_graphics_axis_altitude_geoid_desc">Реалните височини са изчислени от GPS надморска височина и форма на Земята.</string>
-<string name="core_graphics_axis_altitude_baro_desc">Реалните височини са изчислени от калибрираните данни за налягането (известни като по-прецизни от GPS надморска височина) и формата на Земята.</string>
+<string name="core_graphics_axis_none_desc">Не използвай тези ос.</string>
+<string name="core_graphics_axis_altitude_geoid_desc">Реалните височини са изчислени от отчетените GPS надморски височини и форма на Земята.</string>
+<string name="core_graphics_axis_altitude_baro_desc">Реалните височини са изчислени от калибрираните данни за налягането (известни като по-прецизни спрямо отчетените от GPS приемника) и формата на Земята.</string>
 <string name="core_graphics_axis_altitude_diff_title">Височина (разл.)</string>
 <string name="core_graphics_axis_altitude_diff_desc">Разлики между барометричните и геоидните височини.</string>
-<string name="core_graphics_axis_speed_desc">Моментната скорост е изчислена от GPS позицията и времето.</string>
-<string name="core_graphics_axis_incline_desc">Наклонът между местоположенията е изчислен от GPS надморската височина.</string>
+<string name="core_graphics_axis_speed_desc">Моментната скорост е изчислена спрямо GPS позицията и времето.</string>
+<string name="core_graphics_axis_incline_desc">Наклонът между местоположенията е изчислен спрямо отчетените GPS надморски височини.</string>
 <string name="core_graphics_axis_pressure_raw_desc">Некалибрирано налягане спрямо зададеното в барометъра.</string>
 <string name="core_graphics_axis_pressure_sl_desc">Изчислено налягане на морското равнище е определено от GPS надморската височина и барометъра.</string>
 <string name="core_graphics_axis_accuracy_desc">Точност на местоположението (равно на 68&#37;)</string>
@@ -895,7 +895,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_explorer_dialog_load_error_corrupt">Приложението не можа да зареди целия файл. Файлът може да е повреден.</string>
 <string name="landmarks_explorer_dialog_load_error_memory">Приложението не можа да зареди целия файл поради липса на памет.</string>
 
-<string name="landmarks_side_profile_touch">Докоснете профила за да го управлявате</string>
+<string name="landmarks_side_profile_touch">Управление на профила</string>
 <string name="landmarks_side_control_time_bulk_start">Стартиране на всички активни записи едновременно.</string>
 
 <string name="landmarks_follow_path_option_reverse">В обратната посока</string>
