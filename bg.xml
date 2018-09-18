@@ -143,7 +143,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_submenu_hide_menu">Скриване на менюто</string>
 <string name="core_submenu_lock_screen">Заключване на екрана</string>
 <string name="core_submenu_print_map">Снимка на екрана</string>
-<string name="core_submenu_display_coordinates">Координати на екранния център</string>
+<string name="core_submenu_screen_center_coordinates">Координати на екранния център</string>
 <string name="core_submenu_display_grid">Координатна мрежа</string>
 <string name="core_submenu_display_secondary_grid">Покажи вторична мрежа</string>
 <string name="core_submenu_night_mode">Нощен режим</string>
@@ -378,6 +378,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_context_menu_layer">Добави като слой</string>
 <string name="maps_context_menu_opacity">Прозрачност на слоя</string>
 <string name="maps_context_menu_key">Легенда на картата</string>
+<string name="maps_context_menu_erase_color">Изтриване на цвета</string>
 
 <string name="maps_confirm_outbound_title">Извън картата</string>
 <string name="maps_confirm_outbound_desc">Картата, която сте избрали не съдържа данни за текущото местоположение, което ще доведе до празен екран.</string>
@@ -454,7 +455,6 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_explorer_sort_distance">Разстояние от центъра на екрана</string>
 
 <string name="landmarks_context_menu_auto_target">Автоматична цел най-близо до точката</string>
-<string name="landmarks_context_menu_erase_color">Изтриване на цвета</string>
 <string name="landmarks_context_menu_edit_color">Редактиране на цвета</string>
 <string name="landmarks_context_menu_edit_details">Редактиране на детайлите</string>
 <string name="landmarks_context_menu_edit_points">Редактиране на точките</string>
@@ -868,6 +868,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_utils_saturation_1p">Наситеност: %s</string>
 <string name="maps_utils_contrast_1p">Контраст: %s</string>
 
+<string name="maps_erase_color_at_center">Изтрийте цвета в центъра на екрана</string>
+<string name="maps_erase_color_range_width">Точност</string>
+
 <string name="maps_offline_provider_address_aq">Моите карти</string>
 <string name="maps_offline_provider_recursive">Рекурсивно сканиране</string>
 <string name="maps_offline_confirm_oversized_title">Карта с по-големи размери</string>
@@ -907,31 +910,33 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_details_category_list_done">Изминато</string>
 <string name="landmarks_details_category_list_remaining_on_path">Остават</string>
 <string name="landmarks_details_category_list_remaining_to_1p">Остава до целта \"%s\"</string>
-<string name="landmarks_details_statistics_category">Статистика</string>
-<string name="landmarks_details_statistics_line_total">Общо</string>
-<string name="landmarks_details_statistics_line_stopped">Почивки</string>
-<string name="landmarks_details_statistics_category_elevations">Височини</string>
-<string name="landmarks_details_statistics_elevation_line_min_max">Мин./Макс.</string>
-<string name="landmarks_details_statistics_elevation_line_gain_loss">Изкачване/Слизане</string>
-<string name="landmarks_details_statistics_elevation_line_inclines">Средни наклони</string>
-<string name="landmarks_details_statistics_category_moving_speeds">Скорост на движение</string>
-<string name="landmarks_details_statistics_moving_line_flat">На равно</string>
-<string name="landmarks_details_statistics_moving_line_increase">Изкачване</string>
-<string name="landmarks_details_statistics_moving_line_decrease">Слизане</string>
-<string name="landmarks_details_statistics_moving_line_up">Нагоре</string>
-<string name="landmarks_details_statistics_moving_line_down">Надолу</string>
-<string name="landmarks_details_statistics_category_events">Събития</string>
-<string name="landmarks_details_statistics_events_line_break_1p">Почивка от %s</string>
-<string name="landmarks_details_statistics_events_line_max_speed_1p">Максимална скорост от %s</string>
-<string name="landmarks_details_statistics_events_line_min_elevation_1p">Минимална височина от %s</string>
-<string name="landmarks_details_statistics_events_line_max_elevation_1p">Максимална височина от %s</string>
-<string name="landmarks_details_statistics_events_line_start_1p">Начало в %s</string>
-<string name="landmarks_details_statistics_events_line_end_1p">Край в %s</string>
-<string name="landmarks_details_statistics_category_about">Статистически настройки</string>
-<string name="landmarks_details_statistics_about_line_noise_reduction">Филтриране на смущенията</string>
-<string name="landmarks_details_statistics_about_line_moving">Минимална скорост за отчитане на движение</string>
-<string name="landmarks_details_statistics_about_line_breaks">Минимално време за отчитане на почивка</string>
-<string name="landmarks_details_statistics_about_line_include_inter_segments">Включване на междусегментните пропуски</string>
+<string name="landmarks_details_statistics">Статистика</string>
+<string name="landmarks_details_statistics_total">Общо</string>
+<string name="landmarks_details_statistics_stopped">Почивки</string>
+<string name="landmarks_details_statistics_elevations">Височини</string>
+<string name="landmarks_details_statistics_elevations_min_max">Мин./Макс.</string>
+<string name="landmarks_details_statistics_elevations_gain_loss">Изкачване/Слизане</string>
+<string name="landmarks_details_statistics_elevations_inclines">Средни наклони</string>
+<string name="landmarks_details_statistics_moving_speeds">Скорост на движение</string>
+<string name="landmarks_details_statistics_moving_speeds_flat">На равно</string>
+<string name="landmarks_details_statistics_moving_speeds_increase">Изкачване</string>
+<string name="landmarks_details_statistics_moving_speeds_decrease">Слизане</string>
+<string name="landmarks_details_statistics_moving_speeds_up">Нагоре</string>
+<string name="landmarks_details_statistics_moving_speeds_down">Надолу</string>
+<string name="landmarks_details_statistics_events">Събития</string>
+<string name="landmarks_details_statistics_events_break_1p">Почивка от %s</string>
+<string name="landmarks_details_statistics_events_max_speed_1p">Максимална скорост от %s</string>
+<string name="landmarks_details_statistics_events_min_elevation_1p">Минимална височина от %s</string>
+<string name="landmarks_details_statistics_events_max_elevation_1p">Максимална височина от %s</string>
+<string name="landmarks_details_statistics_events_start_1p">Начало в %s</string>
+<string name="landmarks_details_statistics_events_end_1p">Край в %s</string>
+<string name="landmarks_details_statistics_settings">Статистически настройки</string>
+<string name="landmarks_details_statistics_settings_noise_reduction">Филтриране на смущенията</string>
+<string name="landmarks_details_statistics_settings_noise_reduction_medium">Средено</string>
+<string name="landmarks_details_statistics_settings_noise_reduction_high">Голямо</string>
+<string name="landmarks_details_statistics_settings_moving_threshold">Минимална скорост за отчитане на движение</string>
+<string name="landmarks_details_statistics_settings_min_break_time">Минимално време за отчитане на почивка</string>
+<string name="landmarks_details_statistics_settings_include_inter_segments">Включване на междусегментните пропуски</string>
 <string name="landmarks_details_no_data_time">Няма данни за времето</string>
 <string name="landmarks_details_no_data_elevation">Няма данни за височината</string>
 
