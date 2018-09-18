@@ -868,7 +868,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_utils_saturation_1p">Наситеност: %s</string>
 <string name="maps_utils_contrast_1p">Контраст: %s</string>
 
-<string name="maps_erase_color_at_center">Изтрийте цвета в центъра на екрана</string>
+<string name="maps_erase_color_at_center">Изтриване цвета в центъра на екрана</string>
 <string name="maps_erase_color_range_width">Точност</string>
 
 <string name="maps_offline_provider_address_aq">Моите карти</string>
