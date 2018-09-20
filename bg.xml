@@ -180,7 +180,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="orientation_submenu_title">Ориентация</string>
 <string name="orientation_submenu_compass">Компас</string>
 <string name="orientation_submenu_rotate">Завъртане на картата с помощта на компаса</string>
-<string name="orientation_submenu_compass_on_map">Покажи компас на картата</string>
+<string name="orientation_submenu_compass_on_map">Покажи компас върху картата</string>
 <string name="orientation_submenu_status">Текуща ориентация</string>
 
 
@@ -570,7 +570,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="tracker_message_resume_track">Да продължи ли текущия маршрут или да стартира нов?</string>
 <string name="tracker_message_save_track_failed">Запазването на текущия маршрут не бе успешно. Да бъдат ли изтрити данните?</string>
 <string name="tracker_settings_ignore_distance">Пропускане на местоположението, ако няма движение</string>
-<string name="tracker_settings_use_barometer_desc">Записване на барометричните стойности за по-добро изчисляване на барометричните височини.</string>
+<string name="tracker_settings_use_barometer_desc">Запис на барометричните стойности за по-добро изчисляване на барометричните височини.</string>
 <string name="tracker_settings_warn">Предупреждение при слаб или изгубен GPS сигнал</string>
 <string name="tracker_warning_huawei">Huawei потребител: Разрешете на приложението да работи във фонов режим от настройките на вашето устройство, в противен случай записа ще бъде спрян от системата.</string>
 
@@ -598,9 +598,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="geolocation_source_passive_title">Външни източници</string>
 <string name="geolocation_source_passive_desc">Използва данни за местоположението предоставено от други приложения.</string>
 
-<string name="geolocation_rate_title">Интервал на записване</string>
+<string name="geolocation_rate_title">Интервал на запис</string>
 <string name="geolocation_rate_second">Всяка секунда</string>
-<string name="geolocation_rate_seconds_1p">Всяка %s сек</string>
+<string name="geolocation_rate_seconds_1p">През %s сек</string>
 <string name="geolocation_rate_precise_title">Висока точност</string>
 <string name="geolocation_rate_precise_desc">Повишена консумация на енергия.\nПрепоръчва се за сравнително къси разстояния с променлива скорост.</string>
 <string name="geolocation_rate_medium_title">Средна точност</string>
@@ -693,7 +693,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_volume_zoom_title">Мащабиране с бутоните</string>
 <string name="settings_technical_volume_zoom_desc">Чрез бутоните за сила на звука може да увеличите или намалите мащаба на картата.</string>
 <string name="settings_technical_confirm_exit_title">Потвърждение при изход</string>
-<string name="settings_technical_confirm_exit_desc">Допълнително потвърждение при изход от приложението</string>
+<string name="settings_technical_confirm_exit_desc">Допълнително потвърждение при изход от приложението.</string>
 <string name="settings_technical_path_title">Място за съхранение</string>
 <string name="settings_technical_path_desc">Определете къде да съхранявате изтеглените карти.</string>
 <string name="settings_technical_path_dialog_app_path">Директория за съхранение</string>
@@ -704,9 +704,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_path_dialog_restart_app">Моля, рестартирайте приложението</string>
 
 <string name="settings_canvas_category">Настройки на екрана</string>
-<string name="settings_canvas_text_size_title">Информационни панели</string>
+<string name="settings_canvas_text_size_title">Размер на инфо панели</string>
 <string name="settings_canvas_text_size_desc">Дефиниране размера на информационните панели върху картата.</string>
-<string name="settings_canvas_infobox_background_title">Цвят на информационните панели</string>
+<string name="settings_canvas_infobox_background_title">Цвят на инфо панели</string>
 <string name="settings_canvas_infobox_background_desc">Дефиниране цвета на фона на информационните панели.</string>
 <string name="settings_canvas_long_press_map_title">Продължително задържане върху картата</string>
 <string name="settings_canvas_long_press_map_desc">Дефиниране на действие при продължително задържане върху картата.</string>
@@ -731,9 +731,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_landmarks_display_color_desc">Дефиниране цветът на маркерите върху картата.</string>
 <string name="settings_landmarks_display_target_color_title">Цвят на целите</string>
 <string name="settings_landmarks_display_target_color_desc">Дефиниране цветът на целите върху картата.</string>
-<string name="settings_landmarks_display_borders_title">Добави граници</string>
-<string name="settings_landmarks_display_borders_desc">Изчертава граници върху видимите маркери.</string>
-<string name="settings_landmarks_display_shadows_title">Добави сянка</string>
+<string name="settings_landmarks_display_borders_title">Граници</string>
+<string name="settings_landmarks_display_borders_desc">Добавя контури върху видимите маркери.</string>
+<string name="settings_landmarks_display_shadows_title">Сянка</string>
 <string name="settings_landmarks_display_shadows_desc">Добавя сянка върху видимите маркери.</string>
 <string name="settings_landmarks_display_time_bounds_title">Времетраене на записа</string>
 <string name="settings_landmarks_display_time_bounds_desc">Показва времето на начало и край на записа.</string>
@@ -851,7 +851,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_graphics_axis_altitude_diff_title">Височина (разл.)</string>
 <string name="core_graphics_axis_altitude_diff_desc">Разлики между барометричните и геоидните височини.</string>
 <string name="core_graphics_axis_speed_desc">Моментната скорост е изчислена спрямо GPS позицията и времето.</string>
-<string name="core_graphics_axis_incline_desc">Наклонът между местоположенията е изчислен спрямо отчетените GPS надморски височини.</string>
+<string name="core_graphics_axis_incline_desc">Наклонът между местоположенията е изчислен спрямо отчетените разстояния и GPS надморски височини.</string>
 <string name="core_graphics_axis_pressure_raw_desc">Некалибрирано налягане спрямо зададеното в барометъра.</string>
 <string name="core_graphics_axis_pressure_sl_desc">Изчислено налягане на морското равнище е определено от GPS надморската височина и барометъра.</string>
 <string name="core_graphics_axis_accuracy_desc">Точност на местоположението (равно на 68&#37;)</string>
@@ -869,7 +869,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_utils_contrast_1p">Контраст: %s</string>
 
 <string name="maps_erase_color_at_center">Изтриване цвета в центъра на екрана</string>
-<string name="maps_erase_color_range_width">Точност</string>
+<string name="maps_erase_color_range_width">Толеранс</string>
 
 <string name="maps_offline_provider_address_aq">Моите карти</string>
 <string name="maps_offline_provider_recursive">Рекурсивно сканиране</string>
@@ -931,7 +931,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_details_statistics_events_start_1p">Начало в %s</string>
 <string name="landmarks_details_statistics_events_end_1p">Край в %s</string>
 <string name="landmarks_details_statistics_settings">Статистически настройки</string>
-<string name="landmarks_details_statistics_settings_noise_reduction">Филтриране на смущенията</string>
+<string name="landmarks_details_statistics_settings_noise_reduction">Редуциране на смущенията</string>
 <string name="landmarks_details_statistics_settings_noise_reduction_medium">Средено</string>
 <string name="landmarks_details_statistics_settings_noise_reduction_high">Голямо</string>
 <string name="landmarks_details_statistics_settings_moving_threshold">Минимална скорост за отчитане на движение</string>
