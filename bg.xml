@@ -390,7 +390,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_online_installed">Инсталирани карти</string>
 <string name="maps_online_clear_data">Изчистване на данните</string>
 <string name="maps_online_clear_data_confirm">Да се изтрият ли всички запазени данни на тази карта?</string>
-<string name="maps_online_add_new">Добавете още карти?</string>
+<string name="maps_online_add_new">Добавете още карти</string>
 <string name="maps_online_add_new_desc">Можете да прегледате и да инсталирате карти от общността:</string>
 <string name="maps_online_suggest">Предлагам</string>
 
@@ -403,7 +403,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_elevation_map_heights">DEM Височини</string>
 <string name="maps_elevation_map_terrain">DEM Терен</string>
 <string name="maps_elevation_map_hillshade">DEM слой с върхове</string>
-<string name="maps_elevation_map_slopes">DEM Наклони (+30°) слой</string>
+<string name="maps_elevation_map_slopes">DEM слой с наклони (+30°) </string>
 <string name="maps_elevation_map_sensitive">DEM Височини (прицизни)</string>
 
 <string name="maps_area_downloader_creator_zoom">Мащаб</string>
@@ -978,7 +978,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="landmarks_ldks_toast_connection_failed">Неуспешно свързване със сървъра, работите офлайн.</string>
 <string name="landmarks_ldks_toast_modify_success">Модификациите бяха успешно записани на сървъра.</string>
-<string name="landmarks_ldks_toast_update_tiles_1p">Актуализиране на данните от сървъра (%s остават)&#8230;</string>
+<string name="landmarks_ldks_toast_update_tiles_1p">Актуализиране на данните от сървъра (остава/т %s)&#8230;</string>
 <string name="landmarks_ldks_toast_update_success_1p">%s нови елемента</string>
 <string name="landmarks_ldks_dialog_modify_failed">Промените не бяха записани на сървъра! Моля, проверете за последните промени!</string>
 <string name="landmarks_ldks_dialog_wrong_version">Вашата версия вече не се поддържа! Моля, актуализирайте я!</string>
