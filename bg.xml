@@ -819,7 +819,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_toolkit_error_intent">Няма приложение за обработка на това действие.</string>
 <string name="core_toolkit_error_intent_compat">Външното приложение не е съвместимо с това приложение.</string>
 
-<string name="core_canvas_online_tile_queuing">В опашката</string>
+<string name="core_canvas_online_tile_queuing">Изчакване</string>
 <string name="core_canvas_online_tile_connecting">Свързване</string>
 <string name="core_canvas_online_tile_not_available">Не се предлага</string>
 <string name="core_canvas_online_tile_local_storage_only">Офлайн режим</string>
