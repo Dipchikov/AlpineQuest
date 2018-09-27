@@ -827,7 +827,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_details_file_dont_exists">Файлът не съществува</string>
 <string name="core_details_no_information">Няма информация</string>
 <string name="core_details_category_metadata">Информация</string>
-<string name="core_details_category_geocaching">Geocaching</string>
+<string name="core_details_category_geocaching">Геокешинг</string>
 
 <string name="core_button_open_with_external">Друго приложение</string>
 <string name="core_button_open_with_direction">Получаване на упътвания</string>
