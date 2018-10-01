@@ -877,7 +877,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_offline_confirm_oversized_desc">Картата, която сте избрали е прекалено голяма за вашата Android версия и някои части може да не се заредят.\n\nОпитайте се да разделите тази карта на по-малки части от 2GB.</string>
 
 <string name="maps_community_list_title">Още карти</string>
-<string name="maps_community_list_world_title">Световни карти</string>
+<string name="maps_community_list_world_title">Глобални карти</string>
 <string name="maps_community_list_local_title">Регионални карти</string>
 <string name="maps_community_list_featured_maps">Избрани карти</string>
 <string name="maps_community_list_refreshed_1p">Списъкът е актуализиран: %s нови карти</string>
