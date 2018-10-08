@@ -447,7 +447,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_explorer_name_track">Сегмент</string>
 <string name="landmarks_explorer_name_waypoint">Точка</string>
 <string name="landmarks_explorer_cell_location_1p">%s позиция</string>
-<string name="landmarks_explorer_cell_locations_1p">%s места</string>
+<string name="landmarks_explorer_cell_locations_1p">%s позиции</string>
 <string name="landmarks_explorer_cell_segment_1p">%s сегмент</string>
 <string name="landmarks_explorer_cell_segments_1p">%s сегмента</string>
 <string name="landmarks_explorer_cell_waypoint_1p">%s точка</string>
@@ -614,7 +614,7 @@ AlpineQuest е мултифункционално решение за всичк
 <!-- Service agent texts -->
 
 <string name="agent_status_title">AlpineQuest Agent</string>
-<string name="agent_status_waiting_location_1p">В очакване на комуникацията с %s&#8230;</string>
+<string name="agent_status_waiting_location_1p">В очакване на връзка с %s&#8230;</string>
 <string name="agent_status_no_source_1p">Източникът %s е деактивиран!</string>
 <string name="agent_status_no_params">Услугата е спряна от системата!</string>
 <string name="agent_tracking_title_1p">Запис %s&#8230;</string>
