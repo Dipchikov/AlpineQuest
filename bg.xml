@@ -674,7 +674,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="settings_display_reference_north_title">Референтен север</string>
 <string name="settings_display_reference_north_geographic">Географски север</string>
-<string name="settings_display_reference_north_grid">Меридианен север</string>
+<string name="settings_display_reference_north_grid">Координатен север</string>
 <string name="settings_display_reference_north_magnetic">Магнитен север</string>
 
 <string name="settings_display_heading_arrow">Стрелка</string>
