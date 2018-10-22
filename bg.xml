@@ -659,7 +659,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_display_location_wgs84_degree">Ширина/Дължина (Градуси)</string>
 <string name="settings_display_location_imported">Импортирани формати</string>
 
-<string name="settings_display_bearings_title">Азимут</string>
+<string name="settings_display_bearings_title">Азимут формат</string>
 <string name="settings_display_bearings_degrees">Градуси</string>
 <string name="settings_display_bearings_gradians">Гради</string>
 <string name="settings_display_bearings_mils">Мили</string>
