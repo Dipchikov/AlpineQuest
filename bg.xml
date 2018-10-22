@@ -529,7 +529,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="orientation_bearing">Азимут</string>
 <string name="orientation_direction">Посока</string>
 <string name="orientation_declination">Деклинация</string>
-<string name="orientation_compass_not_available">Не може да се активира компасът. На това устройство няма магнитен датчик.</string>
+<string name="orientation_compass_not_available">Компасът не може да бъде активиран. Устройство не разполага с магнитен сензор.</string>
 <string name="orientation_compass_calibrate_message">За да калибрирате магнитния сензор завъртете устройството във всички посоки.</string>
 <string name="orientation_setting_sensor">Сензор</string>
 <string name="orientation_setting_compass_standard_name">Стандарт</string>
@@ -556,7 +556,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <!-- Tracker feature main texts -->
 
-<string name="tracker_action_stop">Спри и запази</string>
+<string name="tracker_action_stop">Запази &amp; Спри</string>
 <string name="tracker_action_resume">Поднови</string>
 <string name="tracker_action_start_new">Започни нов</string>
 <string name="tracker_state_desc_binding">Свързване към услугата</string>
