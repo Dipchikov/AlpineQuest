@@ -214,6 +214,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_insert_here">Вмъкни тук</string>
 <string name="core_button_install">Инсталиране</string>
 <string name="core_button_jump_to">Виж на картата</string>
+<string name="core_button_load">Натоварване</string>
 <string name="core_button_more">Още</string>
 <string name="core_button_move_bottom">Премести в края на списъка</string>
 <string name="core_button_move_down">Премести надолу</string>
@@ -227,6 +228,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_open_url">Отвори URL</string>
 <string name="core_button_open_with">Отвори с</string>
 <string name="core_button_paste">Постави</string>
+<string name="core_button_purchase">Покупка</string>
 <string name="core_button_refresh">Обнови</string>
 <string name="core_button_rename">Преименувай</string>
 <string name="core_button_report_errors">Отчет за грешки</string>
@@ -239,6 +241,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_undisplay">Премахни</string>
 <string name="core_button_undisplay_all_other">Премахни останалите</string>
 <string name="core_button_deselect">Размаркирай</string>
+<string name="core_button_unload">Разтоварвам</string>
 <string name="core_button_update">Актуализация</string>
 <string name="core_button_whats_new">Какво е новото</string>
 <string name="core_button_yes">Да</string>
@@ -310,6 +313,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_toolkit_error_intent_input_s">Не може да се обработва външно съдържание!</string>
 <string name="core_toolkit_error_service_unavailable_s">Услугата е недостъпна!</string>
 
+<string name="core_toolkit_message_restart_application_s">Моля, рестартирайте приложението</string>
 <string name="core_toolkit_message_item_saved_s">Елементът е запазен</string>
 
 <string name="core_toolkit_question_are_you_sure_s">Сигурни ли сте?</string>
@@ -368,6 +372,12 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_workspace_switch">Промяна на работната директория</string>
 <string name="core_workspace_default">Стандартна работна директория</string>
 
+<string name="core_locker_unlock_s">Натиснете бутона за връщане или дълго бутона за сила на звука, за да отключите</string>
+
+<string name="core_features_get_more">Още функции!</string>
+<string name="core_features_manage">Управление на функциите</string>
+<string name="core_features_add_support_1p">%s Support</string>
+
 <string name="core_custom_submenu_item">Персонализиран бутон</string>
 
 
@@ -400,11 +410,11 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_elevation_dem_map">Зони със съхранени данни за релефа</string>
 <string name="maps_elevation_dem_source_1p">Индикативни данни: %s</string>
 <string name="maps_elevation_dem">Цифров модел на релефа (DEM)</string>
-<string name="maps_elevation_map_heights">DEM Височини</string>
-<string name="maps_elevation_map_terrain">DEM Терен</string>
+<string name="maps_elevation_map_heights">DEM височини</string>
+<string name="maps_elevation_map_terrain">DEM терен</string>
 <string name="maps_elevation_map_hillshade">DEM слой с върхове</string>
-<string name="maps_elevation_map_slopes">DEM слой с наклони (+30°) </string>
-<string name="maps_elevation_map_sensitive">DEM Височини (прицизни)</string>
+<string name="maps_elevation_map_slopes">DEM слой с наклони (+30°)</string>
+<string name="maps_elevation_map_sensitive">DEM височини (прицизни)</string>
 
 <string name="maps_area_downloader_creator_zoom">Мащаб</string>
 <string name="maps_area_downloader_creator_cell_tile_1p">%s елемент</string>
@@ -659,7 +669,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_display_location_wgs84_degree">Ширина/Дължина (Градуси)</string>
 <string name="settings_display_location_imported">Импортирани формати</string>
 
-<string name="settings_display_bearings_title">Азимут формат</string>
+<string name="settings_display_bearings_title">Азимут</string>
 <string name="settings_display_bearings_degrees">Градуси</string>
 <string name="settings_display_bearings_gradians">Гради</string>
 <string name="settings_display_bearings_mils">Мили</string>
@@ -701,7 +711,6 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_path_dialog_warning_removable">Тази директория ще бъде изтрита от системата, когато деинсталирате приложението.</string>
 <string name="settings_technical_path_dialog_warning_vulnerable">Ако използвате приложение за поддръжка, то може да изтрие това местоположение.</string>
 <string name="settings_technical_path_dialog_warning_samsung">Това местоположение ще бъде изтрито от поддържката на Samsung!</string>
-<string name="settings_technical_path_dialog_restart_app">Моля, рестартирайте приложението</string>
 
 <string name="settings_canvas_category">Настройки на екрана</string>
 <string name="settings_canvas_text_size_title">Размер на инфо панели</string>
@@ -871,6 +880,8 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_erase_color_at_center">Изтриване цвета в центъра на екрана</string>
 <string name="maps_erase_color_range_width">Толеранс</string>
 
+<string name="maps_features_display_description_1p">Разрешава на приложението да показва карти от %s файлове</string>
+
 <string name="maps_offline_provider_address_aq">Моите карти</string>
 <string name="maps_offline_provider_recursive">Рекурсивно сканиране</string>
 <string name="maps_offline_confirm_oversized_title">Карта с по-големи размери</string>
@@ -899,7 +910,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_explorer_dialog_load_error_memory">Приложението не можа да зареди целия файл поради липса на памет.</string>
 
 <string name="landmarks_side_profile_touch">Управление на профила</string>
-<string name="landmarks_side_control_time_bulk_start">Стартиране на всички активни записи едновременно.</string>
+<string name="landmarks_side_control_time_bulk_start">Стартиране на всички активни записи едновременно</string>
 
 <string name="landmarks_follow_path_option_reverse">В обратната посока</string>
 <string name="landmarks_follow_path_option_loop">Затворен контур</string>
@@ -954,6 +965,9 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_sym_group_transport">Транспорт</string>
 <string name="landmarks_sym_group_water">Вода</string>
 <string name="landmarks_sym_group_worship">Преклонение</string>
+
+<string name="landmarks_features_import_description_1p">Разрешава на приложението да импортира маркери от %s файлове</string>
+<string name="landmarks_features_export_description_1p">Разрешава на приложението да експортира показалци на място в %s файлове</string>
 
 <string name="landmarks_import_options_download_external_content">Изтеглете външно съдържание</string>
 
