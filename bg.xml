@@ -77,7 +77,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 --
 
-<b><b>This Plus version includes all features of the Standard version without ads, and supports import of professional GPS and geographic placemarks file formats (waypoints, routes, tracks, areas) like GPX, Google Earth KML/KMZ (map overlays not supported), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Версия плюс съдържа всички функции на Стандартната версия, но без реклами. Добавена е поддръжка и импортиране на професионални файлови формати, като (точки, пътища, преходи, площи) GPX, Google Earth KML/KMZ (наслагвания на карти не се поддържа), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
 
 --
 
@@ -372,11 +372,11 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_workspace_switch">Промяна на работната директория</string>
 <string name="core_workspace_default">Стандартна работна директория</string>
 
-<string name="core_locker_unlock_s">Натиснете бутона за връщане или дълго бутона за сила на звука, за да отключите</string>
+<string name="core_locker_unlock_s">Натиснете бутона за връщане или  бутон за сила на звука, за да отключите.</string>
 
 <string name="core_features_get_more">Още функции!</string>
 <string name="core_features_manage">Управление на функциите</string>
-<string name="core_features_add_support_1p">%s Support</string>
+<string name="core_features_add_support_1p">%s Поддръжка</string>
 
 <string name="core_custom_submenu_item">Персонализиран бутон</string>
 
@@ -494,7 +494,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="landmarks_create_dialog_category_tools">Инструменти</string>
 <string name="landmarks_create_proximity_repeat">Повтаряне на известието</string>
-<string name="landmarks_create_side_title">Редастор</string>
+<string name="landmarks_create_side_title">Редактор</string>
 <string name="landmarks_create_side_add">Добави местоположение</string>
 <string name="landmarks_create_side_draw">Изчертай</string>
 <string name="landmarks_create_side_save">Запази и затвори</string>
@@ -669,7 +669,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_display_location_wgs84_degree">Ширина/Дължина (Градуси)</string>
 <string name="settings_display_location_imported">Импортирани формати</string>
 
-<string name="settings_display_bearings_title">Азимут</string>
+<string name="settings_display_bearings_title">Формат за азимут</string>
 <string name="settings_display_bearings_degrees">Градуси</string>
 <string name="settings_display_bearings_gradians">Гради</string>
 <string name="settings_display_bearings_mils">Мили</string>
