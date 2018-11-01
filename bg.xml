@@ -109,7 +109,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 
 ★★ <b>Искате ли повече?</b> ★★
-Ако сте истински авантюрист, опитайте <b>AlpineQuest Off-Road Explorer</b>, цялостното решение за открито, базирано на All-In-One OfflineMaps, с добавен с мощен GPS Location Tracker и още: http://www.alpinequest.net/google-play
+Ако сте истински авантюрист, опитайте проложението <b>AlpineQuest Off-Road Explorer</b>, цялостното решение за открито базирано на All-In-One OfflineMaps, с добавен мощен GPS Location Tracker и още: http://www.alpinequest.net/google-play
 
 
 
@@ -129,7 +129,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="om_whatsnew_no_more_ads">Без повече реклами!</string>
 <string name="om_whatsnew_howto_title">Как работи?</string>
-<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват в устройството, за да останат лесно достъпни дори и когато сте офлайн.\nИма много налични карти, които могат да се показват като слоеве.</string>
+<string name="om_whatsnew_howto_content">Картите се извличат от интернет. Всички показани области се съхраняват в устройството, за да останат лесно достъпни дори и когато сте офлайн.\nИма много налични карти, които могат да бъдат добавени като слоеве.</string>
 <string name="om_whatsnew_plus_title">Искате ли да се отървете от рекламите?</string>
 <string name="om_whatsnew_plus_content">Подкрепете ни, като изберете пълната версия без реклами:</string>
 
@@ -214,7 +214,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_insert_here">Вмъкни тук</string>
 <string name="core_button_install">Инсталиране</string>
 <string name="core_button_jump_to">Виж на картата</string>
-<string name="core_button_load">Натоварване</string>
+<string name="core_button_load">Добави</string>
 <string name="core_button_more">Още</string>
 <string name="core_button_move_bottom">Премести в края на списъка</string>
 <string name="core_button_move_down">Премести надолу</string>
@@ -241,7 +241,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_button_undisplay">Премахни</string>
 <string name="core_button_undisplay_all_other">Премахни останалите</string>
 <string name="core_button_deselect">Размаркирай</string>
-<string name="core_button_unload">Разтоварвам</string>
+<string name="core_button_unload">Премахни</string>
 <string name="core_button_update">Актуализация</string>
 <string name="core_button_whats_new">Какво е новото</string>
 <string name="core_button_yes">Да</string>
@@ -376,7 +376,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="core_features_get_more">Още функции!</string>
 <string name="core_features_manage">Управление на функциите</string>
-<string name="core_features_add_support_1p">%s Поддръжка</string>
+<string name="core_features_add_support_1p">Поддръжка на %s </string>
 
 <string name="core_custom_submenu_item">Персонализиран бутон</string>
 
@@ -490,7 +490,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_create_slope_desc">Изчислява наклона между две или повече точки въз основа на въведени от потребителя точки върху картата.</string>
 <string name="landmarks_create_autorouting_title">Авто-маршрут</string>
 <string name="landmarks_create_autorouting_desc">Автоматично изчертава маршрут следвайки пътищата на картата.</string>
-<string name="landmarks_create_quick_waypoint">Бърз точка</string>
+<string name="landmarks_create_quick_waypoint">Бърза точка</string>
 
 <string name="landmarks_create_dialog_category_tools">Инструменти</string>
 <string name="landmarks_create_proximity_repeat">Повтаряне на известието</string>
@@ -880,7 +880,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_erase_color_at_center">Изтриване цвета в центъра на екрана</string>
 <string name="maps_erase_color_range_width">Толеранс</string>
 
-<string name="maps_features_display_description_1p">Разрешава на приложението да показва карти от %s файлове</string>
+<string name="maps_features_display_description_1p">Разрешава на приложението да поддържа на карти от %s формат</string>
 
 <string name="maps_offline_provider_address_aq">Моите карти</string>
 <string name="maps_offline_provider_recursive">Рекурсивно сканиране</string>
@@ -966,8 +966,8 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_sym_group_water">Вода</string>
 <string name="landmarks_sym_group_worship">Преклонение</string>
 
-<string name="landmarks_features_import_description_1p">Разрешава на приложението да импортира маркери от %s файлове</string>
-<string name="landmarks_features_export_description_1p">Разрешава на приложението да експортира показалци на място в %s файлове</string>
+<string name="landmarks_features_import_description_1p">Разрешава на приложението да импортира маркери от %s формат</string>
+<string name="landmarks_features_export_description_1p">Разрешава на приложението да експортира маркери в %s формат</string>
 
 <string name="landmarks_import_options_download_external_content">Изтеглете външно съдържание</string>
 
