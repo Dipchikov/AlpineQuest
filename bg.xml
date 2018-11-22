@@ -22,11 +22,11 @@ AlpineQuest е мултифункционално решение за всичк
 <u><b>Основни функции:</b></u> (за пълната версия):
 
 ★★ <b>Карти</b> ★★
-• Вградени <b>онлайн карти</b> ( <b>с автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
+• Вградени <b>онлайн карти</b> (<b>с автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
 • Вградени <b>онлайн слоеве</b> (пътища, хълмове, контури, височини и т.н.);
 • Получавате много онлайн карти и слоеве само с едно кликване върху списъка с включени карти (карти на Nokia, Yahoo! Maps, локални, топогрофски и много други карти);
 • Изчислява <b>място за съхранение</b> на онлайн карти за офлайн използване;
-• <b>Вградени офлайн карти </b> за поддръжка (посетете нашия уебсайт и изтеглете безплатна програма за създаване на офлайн карти MOBAC);
+• <b>Вградени офлайн карти</b> за поддръжка (посетете нашия уебсайт и изтеглете безплатна програма за създаване на офлайн карти MOBAC);
 • <b>Карта памет</b> (само картите QuickChart .qct - .qc3 не се поддържат);
 • Многопластови <b>карти със слоеве</b> с възможност за контрол на прозрачността;
 • Advanced SD memory card Map Explorer and Scanner.
@@ -77,7 +77,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 --
 
-<b><b>Версия плюс съдържа всички функции на Стандартната версия, но без реклами. Добавена е поддръжка и импортиране на професионални файлови формати, като (точки, пътища, преходи, площи) GPX, Google Earth KML/KMZ (наслагвания на карти не се поддържа), Ozi Explorer WPT/PLT, CVS/TSV and Geocaching LOC</b></b>
+<b><b>Версия плюс съдържа всички функции на Стандартната версия, но без реклами. Добавена е поддръжка и импортиране на професионални файлови формати, като (точки, пътища, преходи, площи) GPX, Google Earth KML/KMZ (наслагвания на карти не се поддържа), Ozi Explorer WPT/PLT, CVS/TSV и Geocaching LOC</b></b>
 
 --
 
@@ -87,16 +87,13 @@ AlpineQuest е мултифункционално решение за всичк
 • Избирате и съхранявате всички части на картата на устройството бързо и лесно.
 • Запазените раздели на картата винаги са достъпни офлайн и могат лесно да бъдат изтрити, ако е необходимо.
 
-
 ★★ <b>Показване, запазване и качване на неограничен брой маркери</b> ★★
 Можете да добавите различен брой етикети, като точки, икони, маршрути и области на картата.
 Можете лесно да ги управлявате с вградения редактор.
 
-
 ★★ <b>GPS позициониране</b> ★★
 Текущото Bи местоположение и посока се показват върху картата, която може да се завърта чрез движение за да подобра ориентацията.
 Бързо и лесно включване/изключване за по-икономична работа на устройството.
-
 
 И още:
 • Метрични, имперски и хибридни измервателни единици;
@@ -106,7 +103,6 @@ AlpineQuest е мултифункционално решение за всичк
 • Изглед на цял екран;
 • Увеличение с няколко докосвания;
 • ...
-
 
 ★★ <b>Искате ли повече?</b> ★★
 Ако сте истински авантюрист, опитайте проложението <b>AlpineQuest Off-Road Explorer</b>, цялостното решение за открито базирано на All-In-One OfflineMaps, с добавен мощен GPS Location Tracker и още: http://www.alpinequest.net/google-play
@@ -294,6 +290,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_toolkit_loading">Зареждане</string>
 <string name="core_toolkit_please_wait">Моля, изчакайте&#8230;</string>
 <string name="core_toolkit_success">Успешно</string>
+<string name="core_toolkit_aborted">Преустановено</string>
 <string name="core_toolkit_error">Грешка</string>
 <string name="core_toolkit_error_no_network">Няма мрежа</string>
 <string name="core_toolkit_error_network">Мрежова грешка</string>
@@ -372,11 +369,11 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="core_workspace_switch">Промяна на работната директория</string>
 <string name="core_workspace_default">Стандартна работна директория</string>
 
-<string name="core_locker_unlock_s">Натиснете бутона за връщане или  бутон за сила на звука, за да отключите.</string>
+<string name="core_locker_unlock_s">Натиснете бутона за връщане или бутон за сила на звука, за да отключите.</string>
 
 <string name="core_features_get_more">Още функции!</string>
 <string name="core_features_manage">Управление на функциите</string>
-<string name="core_features_add_support_1p">Поддръжка на %s </string>
+<string name="core_features_add_support_1p">Поддръжка на %s</string>
 
 <string name="core_custom_submenu_item">Персонализиран бутон</string>
 
@@ -986,9 +983,12 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="landmarks_ldks_signup_desc">Все още нямате профил? Създайте го сега безплатно!</string>
 <string name="landmarks_ldks_signup_button">Създаване на профил</string>
-<string name="landmarks_ldks_signup_username_invalid">Потребителското име вече съществува! Моля, изберете друго име!</string>
-<string name="landmarks_ldks_signup_password_confirm">Потвърдете паролата</string>
-<string name="landmarks_ldks_signup_password_confirm_failed">Не съвпада</string>
+<string name="landmarks_ldks_signup_entry_exists_1p">%s вече съществува! Моля, изберете друго име!</string>
+<string name="landmarks_ldks_button_verify">Потвърдете</string>
+<string name="landmarks_ldks_verification_not_matching">Не съвпада</string>
+
+<string name="landmarks_ldks_verify_email_message_s">Моля, потвърдете имейл адреса си</string>
+<string name="landmarks_ldks_verify_email_pin_sent">ПИН-кодът е изпратен по имейл</string>
 
 <string name="landmarks_ldks_toast_connection_failed">Неуспешно свързване със сървъра, работите офлайн.</string>
 <string name="landmarks_ldks_toast_modify_success">Модификациите бяха успешно записани на сървъра.</string>
@@ -1007,7 +1007,6 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="landmarks_ldks_context_menu_refresh_folder">Опресняване на папката</string>
 <string name="landmarks_ldks_context_menu_refresh_area">Опресняване на района</string>
 
-<string name="landmarks_ldks_explorer_category_home">Моя профил</string>
 <string name="landmarks_ldks_explorer_category_hidden_folders">Скрити папки</string>
 <string name="landmarks_ldks_explorer_category_users">Потребители</string>
 <string name="landmarks_ldks_explorer_category_friends">Приятели</string>
