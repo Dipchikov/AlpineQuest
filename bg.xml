@@ -19,7 +19,7 @@ AlpineQuest е мултифункционално решение за всичк
 Моля, споделяйте предложения и проблеми на нашия форум https://www.alpinequest.net/forum (не е необходима регистрация).
 
 
-<u><b>Основни функции:</b></u> (за пълната версия):
+<u><b>Основни функции:</b></u> (за пълната версия)
 
 ★★ <b>Карти</b> ★★
 • Вградени <b>онлайн карти</b> (<b>с автоматично запазване на устройството</b>; пътни, топографски и сателитни карти);
@@ -697,7 +697,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="settings_technical_screen_on_desc">Екрана няма да се изключи, докато картата е активна.</string>
 <string name="settings_technical_disable_keyguard_title">Отключване на екрана</string>
 <string name="settings_technical_disable_keyguard_desc">Премахва заключването на екрана, когато приложението е стартирано.</string>
-<string name="settings_technical_volume_zoom_title">Мащабиране с бутоните</string>
+<string name="settings_technical_volume_zoom_title">Мащабиране с бутони</string>
 <string name="settings_technical_volume_zoom_desc">Чрез бутоните за сила на звука може да увеличите или намалите мащаба на картата.</string>
 <string name="settings_technical_confirm_exit_title">Потвърждение при изход</string>
 <string name="settings_technical_confirm_exit_desc">Допълнително потвърждение при изход от приложението.</string>
@@ -878,6 +878,8 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="maps_erase_color_range_width">Толеранс</string>
 
 <string name="maps_features_display_description_1p">Разрешава на приложението да поддържа на карти от %s формат</string>
+<string name="maps_features_elevations_download_description">Разрешава на приложението да изтегля и съхранява височинни данни за използване в отдалечени райони</string>
+<string name="maps_features_elevations_maps_description">Добавя нови карти и слоеве на базата на съхранявани данни, като височини, терени, хълмисти места, склонове и др</string>
 
 <string name="maps_offline_provider_address_aq">Моите карти</string>
 <string name="maps_offline_provider_recursive">Рекурсивно сканиране</string>
