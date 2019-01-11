@@ -919,7 +919,7 @@ AlpineQuest е мултифункционално решение за всичк
 
 <string name="landmarks_details_category_list_done">Изминато</string>
 <string name="landmarks_details_category_list_remaining_on_path">Остават</string>
-<string name="landmarks_details_category_list_remaining_to_1p">Остава до целта \"%s\"</string>
+<string name="landmarks_details_category_list_remaining_to_1p">До целта \"%s\" остава</string>
 <string name="landmarks_details_statistics">Статистика</string>
 <string name="landmarks_details_statistics_total">Общо</string>
 <string name="landmarks_details_statistics_stopped">Почивки</string>
