@@ -574,7 +574,7 @@ AlpineQuest е мултифункционално решение за всичк
 <string name="tracker_group_recorded_tracks">Записани маршрути</string>
 <string name="tracker_save_desc_1p">AlpineQuest маршрути %s</string>
 <string name="tracker_group_last_track">Запис на маршрут</string>
-<string name="tracker_message_resume_track">Да продължи ли текущия маршрут или да стартира нов?</string>
+<string name="tracker_message_resume_track">Поднови текущия запис или започни нов.</string>
 <string name="tracker_message_save_track_failed">Запазването на текущия маршрут не бе успешно. Да бъдат ли изтрити данните?</string>
 <string name="tracker_settings_ignore_distance">Пропускане на местоположението, ако няма движение</string>
 <string name="tracker_settings_use_barometer_desc">Запис на барометричните стойности за по-добро изчисляване на барометричните височини.</string>
